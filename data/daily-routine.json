@@ -1,0 +1,122 @@
+{
+  "date": "2025-06-25",
+  "title": "Today's Yin Yoga Journey",
+  "totalDuration": 30,
+  "poses": [
+    {
+      "name": "Centering Breath",
+      "sanskrit": "Pranayama",
+      "duration": 3,
+      "category": "breathing",
+      "description": "Begin your practice with mindful breathing to center yourself and prepare for the session.",
+      "instructions": "Sit comfortably with your spine straight. Close your eyes and take slow, deep breaths. Count 4 counts in, hold for 4, exhale for 6.",
+      "benefits": [
+        "Calms the nervous system",
+        "Increases focus",
+        "Prepares the mind for practice"
+      ],
+      "image": "breathing.jpg",
+      "order": 1,
+      "startTime": 0
+    },
+    {
+      "name": "Supine Spinal Twist",
+      "sanskrit": "Supta Matsyendrasana",
+      "duration": 4,
+      "category": "twist",
+      "description": "Gentle twist that wrings out the spine and promotes detoxification.",
+      "instructions": "Lie on back, bring right knee to chest, cross over to left side. Extend arms in T-shape.",
+      "benefits": [
+        "Wrings out the spine",
+        "Aids digestion",
+        "Releases lower back tension"
+      ],
+      "image": "supine_twist.jpg",
+      "order": 2,
+      "startTime": 3
+    },
+    {
+      "name": "Supine Spinal Twist",
+      "sanskrit": "Supta Matsyendrasana",
+      "duration": 4,
+      "category": "twist",
+      "description": "Gentle twist that wrings out the spine and promotes detoxification.",
+      "instructions": "Lie on back, bring right knee to chest, cross over to left side. Extend arms in T-shape.",
+      "benefits": [
+        "Wrings out the spine",
+        "Aids digestion",
+        "Releases lower back tension"
+      ],
+      "image": "supine_twist.jpg",
+      "order": 3,
+      "startTime": 7
+    },
+    {
+      "name": "Dragon Pose",
+      "sanskrit": "Low Lunge",
+      "duration": 4,
+      "category": "hip_opener",
+      "description": "Active hip opener that targets the hip flexors and strengthens the legs.",
+      "instructions": "From downward dog, step right foot between hands. Lower back knee down, sink hips forward.",
+      "benefits": [
+        "Stretches hip flexors",
+        "Strengthens legs",
+        "Improves hip mobility"
+      ],
+      "image": "dragon.jpg",
+      "order": 4,
+      "startTime": 11
+    },
+    {
+      "name": "Wide-Legged Forward Fold",
+      "sanskrit": "Upavistha Konasana",
+      "duration": 4,
+      "category": "forward_fold",
+      "description": "Gentle forward fold with wide legs that opens the inner thighs and back body.",
+      "instructions": "Sit with legs wide, hands behind hips. Slowly walk hands forward, keeping spine long.",
+      "benefits": [
+        "Stretches inner thighs",
+        "Opens the back body",
+        "Promotes surrender"
+      ],
+      "image": "wide_legged_forward_fold.jpg",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Seated Forward Fold",
+      "sanskrit": "Paschimottanasana",
+      "duration": 4,
+      "category": "forward_fold",
+      "description": "Deep forward fold that stretches the entire back body and promotes inner reflection.",
+      "instructions": "Sit with legs extended, hinge at hips to fold forward. Rest hands on legs or floor, keep spine long.",
+      "benefits": [
+        "Stretches hamstrings and spine",
+        "Calms the mind",
+        "Improves digestion"
+      ],
+      "image": "seated_forward_fold.jpg",
+      "order": 6,
+      "startTime": 19
+    },
+    {
+      "name": "Savasana",
+      "sanskrit": "Savasana",
+      "duration": 5,
+      "category": "restorative",
+      "description": "Final relaxation pose that integrates the practice and promotes deep rest.",
+      "instructions": "Lie flat on back with arms and legs comfortably apart. Close eyes and breathe naturally.",
+      "benefits": [
+        "Integrates the practice",
+        "Promotes deep relaxation",
+        "Calms the mind"
+      ],
+      "image": "savasana.jpg",
+      "order": 7,
+      "startTime": 23
+    }
+  ],
+  "theme": "Inner Strength",
+  "actualDuration": 28,
+  "poseCount": 7
+}

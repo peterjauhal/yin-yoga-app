@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Yin Yoga Routine</title>
+    <meta name="description" content="Your daily 30-minute yin yoga routine with guided poses and images">
+    
+    <!-- PWA Meta Tags -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#4A90A4">
+    <link rel="apple-touch-icon" href="icons/icon-192x192.png">
+    
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>🧘‍♀️ Daily Yin Yoga</h1>
+        <p class="date" id="current-date"></p>
+    </header>
+
+    <main>
+        <section class="routine-info">
+            <h2>Today's 30-Minute Routine</h2>
+            <div class="routine-summary" id="routine-summary">
+                <p>Loading your peaceful yoga practice...</p>
+            </div>
+        </section>
+
+        <section class="poses-container" id="poses-container">
+            <!-- Poses will be loaded here -->
+        </section>
+
+        <section class="timer-section" id="timer-section" style="display: none;">
+            <h3>Practice Timer</h3>
+            <div class="timer-display" id="timer-display">5:00</div>
+            <div class="timer-controls">
+                <button id="start-timer">Start</button>
+                <button id="pause-timer">Pause</button>
+                <button id="reset-timer">Reset</button>
+            </div>
+            <div class="current-pose" id="current-pose-name"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Generated with care for your daily wellness practice</p>
+        <p class="update-info" id="last-updated"></p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
