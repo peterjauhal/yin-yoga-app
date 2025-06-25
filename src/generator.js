@@ -13,7 +13,7 @@ const yinYogaPoses = {
       description: "Begin your practice with mindful breathing to center yourself and prepare for the session.",
       instructions: "Sit comfortably with your spine straight. Close your eyes and take slow, deep breaths. Count 4 counts in, hold for 4, exhale for 6.",
       benefits: ["Calms the nervous system", "Increases focus", "Prepares the mind for practice"],
-      image: "breathing.jpg"
+      image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop&auto=format"
     }
   ],
   
@@ -26,7 +26,7 @@ const yinYogaPoses = {
       description: "A gentle hip opener that targets the inner thighs and hip flexors while promoting introspection.",
       instructions: "Sit with soles of feet together, knees wide. Hold feet and gently fold forward, keeping spine long.",
       benefits: ["Opens hips and inner thighs", "Stimulates abdominal organs", "Calms the mind"],
-      image: "butterfly.jpg"
+      image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=300&fit=crop&auto=format"
     },
     {
       name: "Pigeon Pose",
@@ -36,7 +36,7 @@ const yinYogaPoses = {
       description: "Deep hip opener that releases tension in the hip flexors and can bring up emotional releases.",
       instructions: "From table top, bring right knee behind right wrist, extend left leg back. Fold forward over front leg.",
       benefits: ["Deep hip flexor stretch", "Opens the sacrum", "Releases stored emotions"],
-      image: "pigeon.jpg"
+      image: "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400&h=300&fit=crop&auto=format"
     },
     {
       name: "Dragon Pose",
@@ -46,7 +46,7 @@ const yinYogaPoses = {
       description: "Active hip opener that targets the hip flexors and strengthens the legs.",
       instructions: "From downward dog, step right foot between hands. Lower back knee down, sink hips forward.",
       benefits: ["Stretches hip flexors", "Strengthens legs", "Improves hip mobility"],
-      image: "dragon.jpg"
+      image: "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400&h=300&fit=crop&auto=format"
     }
   ],
   
@@ -59,7 +59,7 @@ const yinYogaPoses = {
       description: "Restorative pose that provides a sense of safety and introspection while gently stretching the back.",
       instructions: "Kneel with big toes touching, knees apart. Sit back on heels and fold forward, arms extended or by sides.",
       benefits: ["Calms the nervous system", "Stretches back and shoulders", "Promotes introspection"],
-      image: "childs_pose.jpg"
+      image: "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400&h=300&fit=crop&auto=format"
     },
     {
       name: "Seated Forward Fold",
@@ -69,7 +69,7 @@ const yinYogaPoses = {
       description: "Deep forward fold that stretches the entire back body and promotes inner reflection.",
       instructions: "Sit with legs extended, hinge at hips to fold forward. Rest hands on legs or floor, keep spine long.",
       benefits: ["Stretches hamstrings and spine", "Calms the mind", "Improves digestion"],
-      image: "seated_forward_fold.jpg"
+      image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop&auto=format"
     },
     {
       name: "Wide-Legged Forward Fold",
@@ -79,7 +79,7 @@ const yinYogaPoses = {
       description: "Gentle forward fold with wide legs that opens the inner thighs and back body.",
       instructions: "Sit with legs wide, hands behind hips. Slowly walk hands forward, keeping spine long.",
       benefits: ["Stretches inner thighs", "Opens the back body", "Promotes surrender"],
-      image: "wide_legged_forward_fold.jpg"
+      image: "https://images.unsplash.com/photo-1593810450967-f9c42742e326?w=400&h=300&fit=crop&auto=format"
     }
   ],
   
@@ -92,7 +92,7 @@ const yinYogaPoses = {
       description: "Passive heart opener that counteracts forward fold postures and opens the chest.",
       instructions: "Lie back over a bolster or pillow placed under shoulder blades. Let arms fall open to sides.",
       benefits: ["Opens heart and chest", "Counteracts forward folding", "Promotes emotional opening"],
-      image: "supported_fish.jpg"
+      image: "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400&h=300&fit=crop&auto=format"
     },
     {
       name: "Camel Pose",
@@ -102,7 +102,7 @@ const yinYogaPoses = {
       description: "Heart opening backbend that builds courage and opens the front body.",
       instructions: "Kneel with shins parallel, place hands on lower back. Slowly arch back, opening chest to sky.",
       benefits: ["Opens chest and heart", "Strengthens back", "Builds confidence"],
-      image: "camel.jpg"
+      image: "https://images.unsplash.com/photo-1506629905645-b178db688c10?w=400&h=300&fit=crop&auto=format"
     }
   ],
   
@@ -115,7 +115,7 @@ const yinYogaPoses = {
       description: "Gentle twist that wrings out the spine and promotes detoxification.",
       instructions: "Lie on back, bring right knee to chest, cross over to left side. Extend arms in T-shape.",
       benefits: ["Wrings out the spine", "Aids digestion", "Releases lower back tension"],
-      image: "supine_twist.jpg"
+      image: "https://images.unsplash.com/photo-1545389336-cf090694435e?w=400&h=300&fit=crop&auto=format"
     },
     {
       name: "Seated Spinal Twist",
@@ -125,7 +125,7 @@ const yinYogaPoses = {
       description: "Seated twist that promotes spinal mobility and internal organ massage.",
       instructions: "Sit with legs extended, bend right knee and place foot outside left thigh. Twist right.",
       benefits: ["Increases spinal mobility", "Massages internal organs", "Improves posture"],
-      image: "seated_twist.jpg"
+      image: "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400&h=300&fit=crop&auto=format"
     }
   ],
   
@@ -138,7 +138,7 @@ const yinYogaPoses = {
       description: "Deeply restorative inversion that calms the nervous system and promotes circulation.",
       instructions: "Lie near a wall, scoot hips close and extend legs up the wall. Rest arms by sides.",
       benefits: ["Calms nervous system", "Improves circulation", "Reduces swelling in legs"],
-      image: "legs_up_wall.jpg"
+      image: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=300&fit=crop&auto=format"
     },
     {
       name: "Savasana",
@@ -148,7 +148,7 @@ const yinYogaPoses = {
       description: "Final relaxation pose that integrates the practice and promotes deep rest.",
       instructions: "Lie flat on back with arms and legs comfortably apart. Close eyes and breathe naturally.",
       benefits: ["Integrates the practice", "Promotes deep relaxation", "Calms the mind"],
-      image: "savasana.jpg"
+      image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop&auto=format"
     }
   ]
 };

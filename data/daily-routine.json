@@ -15,7 +15,7 @@
         "Increases focus",
         "Prepares the mind for practice"
       ],
-      "image": "breathing.jpg",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop&auto=format",
       "order": 1,
       "startTime": 0
     },
@@ -31,7 +31,7 @@
         "Aids digestion",
         "Releases lower back tension"
       ],
-      "image": "supine_twist.jpg",
+      "image": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=400&h=300&fit=crop&auto=format",
       "order": 2,
       "startTime": 3
     },
@@ -47,7 +47,7 @@
         "Aids digestion",
         "Releases lower back tension"
       ],
-      "image": "supine_twist.jpg",
+      "image": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=400&h=300&fit=crop&auto=format",
       "order": 3,
       "startTime": 7
     },
@@ -63,7 +63,7 @@
         "Strengthens legs",
         "Improves hip mobility"
       ],
-      "image": "dragon.jpg",
+      "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400&h=300&fit=crop&auto=format",
       "order": 4,
       "startTime": 11
     },
@@ -79,7 +79,7 @@
         "Opens the back body",
         "Promotes surrender"
       ],
-      "image": "wide_legged_forward_fold.jpg",
+      "image": "https://images.unsplash.com/photo-1593810450967-f9c42742e326?w=400&h=300&fit=crop&auto=format",
       "order": 5,
       "startTime": 15
     },
@@ -95,7 +95,7 @@
         "Calms the mind",
         "Improves digestion"
       ],
-      "image": "seated_forward_fold.jpg",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop&auto=format",
       "order": 6,
       "startTime": 19
     },
@@ -111,7 +111,7 @@
         "Promotes deep relaxation",
         "Calms the mind"
       ],
-      "image": "savasana.jpg",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop&auto=format",
       "order": 7,
       "startTime": 23
     }

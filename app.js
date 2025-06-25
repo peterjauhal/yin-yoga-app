@@ -90,12 +90,10 @@ class YinYogaApp {
     card.className = 'pose-card';
     card.setAttribute('data-pose-index', index);
     
-    // Create placeholder image with pose emoji/icon
-    const imageEmoji = this.getPoseEmoji(pose.category);
-    
     card.innerHTML = `
       <div class="pose-image">
-        <div style="font-size: 4rem; color: #4A90A4;">${imageEmoji}</div>
+        <img src="${pose.image}" alt="${pose.name}" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+        <div class="pose-fallback" style="display: none; font-size: 4rem; color: #4A90A4;">${this.getPoseEmoji(pose.category)}</div>
       </div>
       <div class="pose-content">
         <div class="pose-title">
