@@ -32,12 +32,16 @@ class YinYogaApp {
   
   async loadRoutine() {
     try {
+      console.log('Loading routine from data/daily-routine.json');
       const response = await fetch('data/daily-routine.json');
+      console.log('Response status:', response.status);
+      
       if (!response.ok) {
-        throw new Error('Routine not found');
+        throw new Error(`Routine not found: ${response.status}`);
       }
       
       this.currentRoutine = await response.json();
+      console.log('Loaded routine:', this.currentRoutine);
       this.displayRoutine();
       this.setupTimer();
       
@@ -54,6 +58,7 @@ class YinYogaApp {
       
     } catch (error) {
       console.error('Error loading routine:', error);
+      console.error('Full error details:', error.message);
       this.displayFallbackRoutine();
     }
   }
