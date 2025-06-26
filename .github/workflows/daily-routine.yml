@@ -39,19 +39,6 @@ jobs:
     - name: Generate daily routine
       run: npm run generate
       
-    - name: Setup Pages
-      uses: actions/configure-pages@v4
-      
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3
-      with:
-        # Upload entire repository
-        path: '.'
-        
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
-      
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
@@ -65,3 +52,16 @@ jobs:
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+      
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        # Upload entire repository
+        path: '.'
+        
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4

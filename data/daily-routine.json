@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-25",
+  "date": "2025-06-26",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -36,22 +36,6 @@
       "startTime": 3
     },
     {
-      "name": "Supine Spinal Twist",
-      "sanskrit": "Supta Matsyendrasana",
-      "duration": 4,
-      "category": "twist",
-      "description": "Gentle twist that wrings out the spine and promotes detoxification.",
-      "instructions": "Lie on back, bring right knee to chest, cross over to left side. Extend arms in T-shape.",
-      "benefits": [
-        "Wrings out the spine",
-        "Aids digestion",
-        "Releases lower back tension"
-      ],
-      "image": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=400&h=300&fit=crop&auto=format",
-      "order": 3,
-      "startTime": 7
-    },
-    {
       "name": "Dragon Pose",
       "sanskrit": "Low Lunge",
       "duration": 4,
@@ -64,8 +48,8 @@
         "Improves hip mobility"
       ],
       "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400&h=300&fit=crop&auto=format",
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Wide-Legged Forward Fold",
@@ -80,13 +64,13 @@
         "Promotes surrender"
       ],
       "image": "https://images.unsplash.com/photo-1593810450967-f9c42742e326?w=400&h=300&fit=crop&auto=format",
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Seated Forward Fold",
       "sanskrit": "Paschimottanasana",
-      "duration": 4,
+      "duration": 5,
       "category": "forward_fold",
       "description": "Deep forward fold that stretches the entire back body and promotes inner reflection.",
       "instructions": "Sit with legs extended, hinge at hips to fold forward. Rest hands on legs or floor, keep spine long.",
@@ -96,8 +80,24 @@
         "Improves digestion"
       ],
       "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop&auto=format",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Pigeon Pose",
+      "sanskrit": "Eka Pada Rajakapotasana",
+      "duration": 3,
+      "category": "hip_opener",
+      "description": "Deep hip opener that releases tension in the hip flexors and can bring up emotional releases.",
+      "instructions": "From table top, bring right knee behind right wrist, extend left leg back. Fold forward over front leg.",
+      "benefits": [
+        "Deep hip flexor stretch",
+        "Opens the sacrum",
+        "Releases stored emotions"
+      ],
+      "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400&h=300&fit=crop&auto=format",
       "order": 6,
-      "startTime": 19
+      "startTime": 20
     },
     {
       "name": "Savasana",
