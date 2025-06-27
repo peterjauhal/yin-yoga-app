@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-26",
+  "date": "2025-06-27",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Supine Spinal Twist",
-      "sanskrit": "Supta Matsyendrasana",
-      "duration": 4,
-      "category": "twist",
-      "description": "Gentle twist that wrings out the spine and promotes detoxification.",
-      "instructions": "Lie on back, bring right knee to chest, cross over to left side. Extend arms in T-shape.",
-      "benefits": [
-        "Wrings out the spine",
-        "Aids digestion",
-        "Releases lower back tension"
-      ],
-      "image": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=400&h=300&fit=crop&auto=format",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Dragon Pose",
       "sanskrit": "Low Lunge",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Improves hip mobility"
       ],
       "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400&h=300&fit=crop&auto=format",
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Wide-Legged Forward Fold",
@@ -64,8 +48,8 @@
         "Promotes surrender"
       ],
       "image": "https://images.unsplash.com/photo-1593810450967-f9c42742e326?w=400&h=300&fit=crop&auto=format",
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Seated Forward Fold",
@@ -80,13 +64,13 @@
         "Improves digestion"
       ],
       "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop&auto=format",
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Pigeon Pose",
       "sanskrit": "Eka Pada Rajakapotasana",
-      "duration": 3,
+      "duration": 5,
       "category": "hip_opener",
       "description": "Deep hip opener that releases tension in the hip flexors and can bring up emotional releases.",
       "instructions": "From table top, bring right knee behind right wrist, extend left leg back. Fold forward over front leg.",
@@ -96,8 +80,8 @@
         "Releases stored emotions"
       ],
       "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400&h=300&fit=crop&auto=format",
-      "order": 6,
-      "startTime": 20
+      "order": 5,
+      "startTime": 16
     },
     {
       "name": "Savasana",
@@ -112,11 +96,11 @@
         "Calms the mind"
       ],
       "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop&auto=format",
-      "order": 7,
-      "startTime": 23
+      "order": 6,
+      "startTime": 21
     }
   ],
   "theme": "Inner Strength",
-  "actualDuration": 28,
-  "poseCount": 7
+  "actualDuration": 26,
+  "poseCount": 6
 }
