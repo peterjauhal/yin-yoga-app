@@ -48,10 +48,8 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Update daily yoga routine for $(date +%Y-%m-%d)"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
         fi
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
     - name: Setup Pages
       uses: actions/configure-pages@v4
