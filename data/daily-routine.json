@@ -20,68 +20,88 @@
       "startTime": 0
     },
     {
-      "name": "Dragon Pose",
-      "sanskrit": "Low Lunge",
-      "duration": 4,
+      "name": "Square",
+      "sanskrit": "Square",
+      "duration": 5,
       "category": "hip_opener",
-      "description": "Active hip opener that targets the hip flexors and strengthens the legs.",
-      "instructions": "From downward dog, step right foot between hands. Lower back knee down, sink hips forward.",
+      "description": "Intense hip opener working both hips simultaneously.",
+      "instructions": "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
       "benefits": [
-        "Stretches hip flexors",
-        "Strengthens legs",
-        "Improves hip mobility"
+        "Deep hip opening",
+        "External rotation",
+        "Prepares for lotus variations"
       ],
-      "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400&h=300&fit=crop&auto=format",
+      "image": "assets/images/fig3-39.png",
       "order": 2,
       "startTime": 3
     },
     {
-      "name": "Wide-Legged Forward Fold",
-      "sanskrit": "Upavistha Konasana",
+      "name": "Anahatasana",
+      "sanskrit": "Anahatasana",
       "duration": 4,
       "category": "forward_fold",
-      "description": "Gentle forward fold with wide legs that opens the inner thighs and back body.",
-      "instructions": "Sit with legs wide, hands behind hips. Slowly walk hands forward, keeping spine long.",
+      "description": "Heart melting pose targeting middle and upper back extension.",
+      "instructions": "From hands and knees, walk hands forward allowing chest to drop toward floor. Keep hips over knees.",
       "benefits": [
-        "Stretches inner thighs",
-        "Opens the back body",
-        "Promotes surrender"
+        "Opens middle and upper back",
+        "Heart opening qualities",
+        "Shoulder mobility"
       ],
-      "image": "https://images.unsplash.com/photo-1593810450967-f9c42742e326?w=400&h=300&fit=crop&auto=format",
+      "image": "assets/images/fig3-1.png",
+      "contraindications": [
+        "Take care with neck positioning to avoid strain",
+        "Watch for tingling in hands - adjust arm position if needed"
+      ],
       "order": 3,
-      "startTime": 7
+      "startTime": 8
     },
     {
-      "name": "Seated Forward Fold",
-      "sanskrit": "Paschimottanasana",
-      "duration": 5,
+      "name": "Dangling",
+      "sanskrit": "Dangling",
+      "duration": 4,
       "category": "forward_fold",
-      "description": "Deep forward fold that stretches the entire back body and promotes inner reflection.",
-      "instructions": "Sit with legs extended, hinge at hips to fold forward. Rest hands on legs or floor, keep spine long.",
+      "description": "Standing forward fold providing spinal traction and hamstring stretch.",
+      "instructions": "Stand with feet apart, bend knees slightly and fold forward. Clasp elbows or rest on knees.",
       "benefits": [
-        "Stretches hamstrings and spine",
-        "Calms the mind",
-        "Improves digestion"
+        "Spinal traction",
+        "Hamstring stretch",
+        "Calms nervous system"
       ],
-      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop&auto=format",
+      "image": "assets/images/fig3-17.png",
       "order": 4,
-      "startTime": 11
+      "startTime": 12
     },
     {
-      "name": "Pigeon Pose",
-      "sanskrit": "Eka Pada Rajakapotasana",
-      "duration": 5,
+      "name": "Butterfly",
+      "sanskrit": "Butterfly",
+      "duration": 4,
       "category": "hip_opener",
-      "description": "Deep hip opener that releases tension in the hip flexors and can bring up emotional releases.",
-      "instructions": "From table top, bring right knee behind right wrist, extend left leg back. Fold forward over front leg.",
+      "description": "Gentle hip opener that opens the groin and inner thighs.",
+      "instructions": "Sit with soles of feet together, hold feet and gently fold forward from hips.",
       "benefits": [
-        "Deep hip flexor stretch",
-        "Opens the sacrum",
-        "Releases stored emotions"
+        "Opens hips and inner thighs",
+        "Stimulates abdominal organs",
+        "Calms the mind"
       ],
-      "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400&h=300&fit=crop&auto=format",
+      "image": "assets/images/fig3-6.png",
       "order": 5,
       "startTime": 16
+    },
+    {
+      "name": "Cat Pulling Its Tail",
+      "sanskrit": "Cat Pulling Its Tail",
+      "duration": 3,
+      "category": "twist",
+      "description": "Asymmetrical twist combining hip opening with spinal rotation.",
+      "instructions": "Lie on side, bend top knee and reach back to hold foot, creating twist through spine.",
+      "benefits": [
+        "Spinal rotation",
+        "Hip flexor stretch",
+        "Side body opening"
+      ],
+      "image": "assets/images/fig3-11.png",
+      "order": 6,
+      "startTime": 20
     },
     {
       "name": "Savasana",
@@ -95,12 +115,12 @@
         "Promotes deep relaxation",
         "Calms the mind"
       ],
-      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop&auto=format",
-      "order": 6,
-      "startTime": 21
+      "image": "assets/images/fig3-48.png",
+      "order": 7,
+      "startTime": 23
     }
   ],
   "theme": "Inner Strength",
-  "actualDuration": 26,
-  "poseCount": 6
+  "actualDuration": 28,
+  "poseCount": 7
 }

@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 
-// Yin yoga poses database with curated poses suitable for 30-minute routines
+// Enhanced Yin yoga poses database with professional content from "The Complete Guide to Yin Yoga"
 const yinYogaPoses = {
   opening: [
     {
@@ -16,129 +16,172 @@ const yinYogaPoses = {
       image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop&auto=format"
     }
   ],
-  
+
   hipOpeners: [
     {
-      name: "Butterfly Pose",
-      sanskrit: "Baddha Konasana",
-      duration: 4,
-      category: "hip_opener",
-      description: "A gentle hip opener that targets the inner thighs and hip flexors while promoting introspection.",
-      instructions: "Sit with soles of feet together, knees wide. Hold feet and gently fold forward, keeping spine long.",
-      benefits: ["Opens hips and inner thighs", "Stimulates abdominal organs", "Calms the mind"],
-      image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=300&fit=crop&auto=format"
-    },
-    {
-      name: "Pigeon Pose",
-      sanskrit: "Eka Pada Rajakapotasana",
+      name: "Dragon",
+      sanskrit: "Dragon",
       duration: 5,
       category: "hip_opener",
-      description: "Deep hip opener that releases tension in the hip flexors and can bring up emotional releases.",
-      instructions: "From table top, bring right knee behind right wrist, extend left leg back. Fold forward over front leg.",
-      benefits: ["Deep hip flexor stretch", "Opens the sacrum", "Releases stored emotions"],
-      image: "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400&h=300&fit=crop&auto=format"
+      description: "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
+      instructions: "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
+      benefits: ["Stretches hip flexors and quadriceps", "Opens hip sockets", "Improves hip mobility"],
+      image: "assets/images/fig3-20.png",
+      contraindications: ["Can be uncomfortable for the kneecap or ankle - use padding or support as needed", "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"]
     },
     {
-      name: "Dragon Pose",
-      sanskrit: "Low Lunge",
+      name: "Frog",
+      sanskrit: "Frog",
+      duration: 5,
+      category: "hip_opener",
+      description: "Deep hip opener targeting the inner groin and hip sockets.",
+      instructions: "Start in Child's Pose and slide hands forward, separate knees while remaining sitting on heels.",
+      benefits: ["Opens inner groin and adductors", "Increases hip flexibility", "May provide spinal extension"],
+      image: "assets/images/fig3-23.png",
+      contraindications: ["If you have back issues, compression may be too much", "Use knee padding if knees complain"]
+    },
+    {
+      name: "Butterfly",
+      sanskrit: "Butterfly",
       duration: 4,
       category: "hip_opener",
-      description: "Active hip opener that targets the hip flexors and strengthens the legs.",
-      instructions: "From downward dog, step right foot between hands. Lower back knee down, sink hips forward.",
-      benefits: ["Stretches hip flexors", "Strengthens legs", "Improves hip mobility"],
-      image: "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400&h=300&fit=crop&auto=format"
+      description: "Gentle hip opener that opens the groin and inner thighs.",
+      instructions: "Sit with soles of feet together, hold feet and gently fold forward from hips.",
+      benefits: ["Opens hips and inner thighs", "Stimulates abdominal organs", "Calms the mind"],
+      image: "assets/images/fig3-6.png"
+    },
+    {
+      name: "Half-Butterfly",
+      sanskrit: "Half-Butterfly",
+      duration: 4,
+      category: "hip_opener",
+      description: "Asymmetrical pose targeting one side at a time for focused hip opening.",
+      instructions: "Sit with one leg straight, other foot drawn into inner thigh. Fold forward over straight leg.",
+      benefits: ["Focused hip opening", "Hamstring stretch", "Spinal mobility"],
+      image: "assets/images/fig3-7.png"
+    },
+    {
+      name: "Square",
+      sanskrit: "Square",
+      duration: 5,
+      category: "hip_opener",
+      description: "Intense hip opener working both hips simultaneously.",
+      instructions: "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
+      benefits: ["Deep hip opening", "External rotation", "Prepares for lotus variations"],
+      image: "assets/images/fig3-39.png"
     }
   ],
-  
+
   forwardFolds: [
     {
       name: "Child's Pose",
-      sanskrit: "Balasana",
+      sanskrit: "Child's Pose",
       duration: 4,
       category: "forward_fold",
-      description: "Restorative pose that provides a sense of safety and introspection while gently stretching the back.",
-      instructions: "Kneel with big toes touching, knees apart. Sit back on heels and fold forward, arms extended or by sides.",
-      benefits: ["Calms the nervous system", "Stretches back and shoulders", "Promotes introspection"],
-      image: "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400&h=300&fit=crop&auto=format"
+      description: "Restorative pose providing safety and introspection while gently stretching the back.",
+      instructions: "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
+      benefits: ["Calms nervous system", "Stretches back and shoulders", "Promotes introspection"],
+      image: "assets/images/fig3-13.png"
     },
     {
-      name: "Seated Forward Fold",
-      sanskrit: "Paschimottanasana",
+      name: "Caterpillar",
+      sanskrit: "Caterpillar",
       duration: 5,
       category: "forward_fold",
-      description: "Deep forward fold that stretches the entire back body and promotes inner reflection.",
-      instructions: "Sit with legs extended, hinge at hips to fold forward. Rest hands on legs or floor, keep spine long.",
-      benefits: ["Stretches hamstrings and spine", "Calms the mind", "Improves digestion"],
-      image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop&auto=format"
+      description: "Deep forward fold stretching the entire back body and hamstrings.",
+      instructions: "Sit with legs extended, fold forward from hips allowing spine to round naturally.",
+      benefits: ["Stretches spine and hamstrings", "Calms the mind", "Improves digestion"],
+      image: "assets/images/fig3-12.png"
     },
     {
-      name: "Wide-Legged Forward Fold",
-      sanskrit: "Upavistha Konasana",
+      name: "Dangling",
+      sanskrit: "Dangling",
       duration: 4,
       category: "forward_fold",
-      description: "Gentle forward fold with wide legs that opens the inner thighs and back body.",
-      instructions: "Sit with legs wide, hands behind hips. Slowly walk hands forward, keeping spine long.",
-      benefits: ["Stretches inner thighs", "Opens the back body", "Promotes surrender"],
-      image: "https://images.unsplash.com/photo-1593810450967-f9c42742e326?w=400&h=300&fit=crop&auto=format"
+      description: "Standing forward fold providing spinal traction and hamstring stretch.",
+      instructions: "Stand with feet apart, bend knees slightly and fold forward. Clasp elbows or rest on knees.",
+      benefits: ["Spinal traction", "Hamstring stretch", "Calms nervous system"],
+      image: "assets/images/fig3-17.png"
+    },
+    {
+      name: "Snail",
+      sanskrit: "Snail",
+      duration: 4,
+      category: "forward_fold",
+      description: "Inverted forward fold providing deep spinal flexion.",
+      instructions: "Lie on back, lift legs overhead and support with hands on lower back.",
+      benefits: ["Deep spinal flexion", "Neck and shoulder stretch", "Introspective pose"],
+      image: "assets/images/fig3-34.png"
+    },
+    {
+      name: "Anahatasana",
+      sanskrit: "Anahatasana",
+      duration: 4,
+      category: "forward_fold",
+      description: "Heart melting pose targeting middle and upper back extension.",
+      instructions: "From hands and knees, walk hands forward allowing chest to drop toward floor. Keep hips over knees.",
+      benefits: ["Opens middle and upper back", "Heart opening qualities", "Shoulder mobility"],
+      image: "assets/images/fig3-1.png",
+      contraindications: ["Take care with neck positioning to avoid strain", "Watch for tingling in hands - adjust arm position if needed"]
     }
   ],
-  
+
   backbends: [
     {
-      name: "Supported Fish Pose",
-      sanskrit: "Matsyasana",
-      duration: 5,
-      category: "backbend",
-      description: "Passive heart opener that counteracts forward fold postures and opens the chest.",
-      instructions: "Lie back over a bolster or pillow placed under shoulder blades. Let arms fall open to sides.",
-      benefits: ["Opens heart and chest", "Counteracts forward folding", "Promotes emotional opening"],
-      image: "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400&h=300&fit=crop&auto=format"
-    },
-    {
-      name: "Camel Pose",
-      sanskrit: "Ustrasana",
+      name: "Bridge",
+      sanskrit: "Bridge",
       duration: 3,
       category: "backbend",
-      description: "Heart opening backbend that builds courage and opens the front body.",
-      instructions: "Kneel with shins parallel, place hands on lower back. Slowly arch back, opening chest to sky.",
-      benefits: ["Opens chest and heart", "Strengthens back", "Builds confidence"],
-      image: "https://images.unsplash.com/photo-1506629905645-b178db688c10?w=400&h=300&fit=crop&auto=format"
+      description: "Gentle backbend opening the chest and strengthening the back body.",
+      instructions: "Lie on back with knees bent, lift hips up creating arch through spine.",
+      benefits: ["Opens chest and heart", "Strengthens glutes and back", "Energizing pose"],
+      image: "assets/images/fig3-5.png"
+    },
+    {
+      name: "Sphinx and Seal",
+      sanskrit: "Sphinx and Seal",
+      duration: 4,
+      category: "backbend",
+      description: "Progressive backbends working from gentle to deeper spinal extension.",
+      instructions: "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      benefits: ["Spinal extension", "Strengthens back muscles", "Opens chest"],
+      image: "assets/images/fig3-35.png"
     }
   ],
-  
+
   twists: [
     {
-      name: "Supine Spinal Twist",
-      sanskrit: "Supta Matsyendrasana",
+      name: "Reclining Twists",
+      sanskrit: "Reclining Twists",
       duration: 4,
       category: "twist",
-      description: "Gentle twist that wrings out the spine and promotes detoxification.",
-      instructions: "Lie on back, bring right knee to chest, cross over to left side. Extend arms in T-shape.",
-      benefits: ["Wrings out the spine", "Aids digestion", "Releases lower back tension"],
-      image: "https://images.unsplash.com/photo-1545389336-cf090694435e?w=400&h=300&fit=crop&auto=format"
+      description: "Gentle supine twist wringing out the spine and promoting detoxification.",
+      instructions: "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      benefits: ["Wrings out spine", "Aids digestion", "Releases lower back tension"],
+      image: "assets/images/fig3-31.png"
     },
     {
-      name: "Seated Spinal Twist",
-      sanskrit: "Bharadvajasana",
-      duration: 3,
+      name: "Cat Pulling Its Tail",
+      sanskrit: "Cat Pulling Its Tail",
+      duration: 4,
       category: "twist",
-      description: "Seated twist that promotes spinal mobility and internal organ massage.",
-      instructions: "Sit with legs extended, bend right knee and place foot outside left thigh. Twist right.",
-      benefits: ["Increases spinal mobility", "Massages internal organs", "Improves posture"],
-      image: "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400&h=300&fit=crop&auto=format"
+      description: "Asymmetrical twist combining hip opening with spinal rotation.",
+      instructions: "Lie on side, bend top knee and reach back to hold foot, creating twist through spine.",
+      benefits: ["Spinal rotation", "Hip flexor stretch", "Side body opening"],
+      image: "assets/images/fig3-11.png"
     }
   ],
-  
+
   restorative: [
     {
-      name: "Legs Up the Wall",
-      sanskrit: "Viparita Karani",
-      duration: 5,
+      name: "Happy Baby",
+      sanskrit: "Happy Baby",
+      duration: 4,
       category: "restorative",
-      description: "Deeply restorative inversion that calms the nervous system and promotes circulation.",
-      instructions: "Lie near a wall, scoot hips close and extend legs up the wall. Rest arms by sides.",
-      benefits: ["Calms nervous system", "Improves circulation", "Reduces swelling in legs"],
-      image: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=300&fit=crop&auto=format"
+      description: "Playful restorative pose that opens hips and releases lower back tension.",
+      instructions: "Lie on back, draw knees to chest, grab outside edges of feet and gently rock side to side.",
+      benefits: ["Hip opening", "Lower back release", "Calming and grounding"],
+      image: "assets/images/fig3-24.png"
     },
     {
       name: "Savasana",
@@ -148,7 +191,7 @@ const yinYogaPoses = {
       description: "Final relaxation pose that integrates the practice and promotes deep rest.",
       instructions: "Lie flat on back with arms and legs comfortably apart. Close eyes and breathe naturally.",
       benefits: ["Integrates the practice", "Promotes deep relaxation", "Calms the mind"],
-      image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop&auto=format"
+      image: "assets/images/fig3-48.png"
     }
   ]
 };
