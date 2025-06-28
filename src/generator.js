@@ -48,7 +48,7 @@ const yinYogaPoses = {
       description: "Gentle hip opener that opens the groin and inner thighs.",
       instructions: "Sit with soles of feet together, hold feet and gently fold forward from hips.",
       benefits: ["Opens hips and inner thighs", "Stimulates abdominal organs", "Calms the mind"],
-      image: "assets/images/fig3-6.png"
+      image: "assets/images/fig3-40.png"
     },
     {
       name: "Half-Butterfly",
@@ -191,7 +191,7 @@ const yinYogaPoses = {
       description: "Final relaxation pose that integrates the practice and promotes deep rest.",
       instructions: "Lie flat on back with arms and legs comfortably apart. Close eyes and breathe naturally.",
       benefits: ["Integrates the practice", "Promotes deep relaxation", "Calms the mind"],
-      image: "assets/images/fig3-48.png"
+      image: "assets/images/fig3-60.png"
     }
   ]
 };
