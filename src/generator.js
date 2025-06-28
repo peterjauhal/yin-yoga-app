@@ -81,7 +81,7 @@ const yinYogaPoses = {
       description: "Restorative pose providing safety and introspection while gently stretching the back.",
       instructions: "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
       benefits: ["Calms nervous system", "Stretches back and shoulders", "Promotes introspection"],
-      image: "assets/images/fig3-13.png"
+      image: "assets/images/fig3-14.png"
     },
     {
       name: "Caterpillar",
@@ -111,7 +111,7 @@ const yinYogaPoses = {
       description: "Inverted forward fold providing deep spinal flexion.",
       instructions: "Lie on back, lift legs overhead and support with hands on lower back.",
       benefits: ["Deep spinal flexion", "Neck and shoulder stretch", "Introspective pose"],
-      image: "assets/images/fig3-34.png"
+      image: "assets/images/fig3-35.png"
     },
     {
       name: "Anahatasana",
@@ -145,7 +145,7 @@ const yinYogaPoses = {
       description: "Progressive backbends working from gentle to deeper spinal extension.",
       instructions: "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
       benefits: ["Spinal extension", "Strengthens back muscles", "Opens chest"],
-      image: "assets/images/fig3-35.png"
+      image: "assets/images/fig3-37.png"
     }
   ],
 
