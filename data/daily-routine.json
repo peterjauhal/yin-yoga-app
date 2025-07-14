@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-13",
+  "date": "2025-07-14",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Snail",
       "sanskrit": "Snail",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Introspective pose"
       ],
       "image": "assets/images/fig3-35.png",
-      "order": 3,
-      "startTime": 6
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Half-Butterfly",
@@ -64,8 +48,28 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
+      "order": 3,
+      "startTime": 7
+    },
+    {
+      "name": "Frog",
+      "sanskrit": "Frog",
+      "duration": 5,
+      "category": "hip_opener",
+      "description": "Deep hip opener targeting the inner groin and hip sockets.",
+      "instructions": "Start in Child's Pose and slide hands forward, separate knees while remaining sitting on heels.",
+      "benefits": [
+        "Opens inner groin and adductors",
+        "Increases hip flexibility",
+        "May provide spinal extension"
+      ],
+      "image": "assets/images/fig3-23.png",
+      "contraindications": [
+        "If you have back issues, compression may be too much",
+        "Use knee padding if knees complain"
+      ],
       "order": 4,
-      "startTime": 10
+      "startTime": 11
     },
     {
       "name": "Frog",
@@ -85,27 +89,7 @@
         "Use knee padding if knees complain"
       ],
       "order": 5,
-      "startTime": 14
-    },
-    {
-      "name": "Frog",
-      "sanskrit": "Frog",
-      "duration": 4,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting the inner groin and hip sockets.",
-      "instructions": "Start in Child's Pose and slide hands forward, separate knees while remaining sitting on heels.",
-      "benefits": [
-        "Opens inner groin and adductors",
-        "Increases hip flexibility",
-        "May provide spinal extension"
-      ],
-      "image": "assets/images/fig3-23.png",
-      "contraindications": [
-        "If you have back issues, compression may be too much",
-        "Use knee padding if knees complain"
-      ],
-      "order": 6,
-      "startTime": 19
+      "startTime": 16
     },
     {
       "name": "Savasana",
@@ -120,11 +104,11 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-60.png",
-      "order": 7,
-      "startTime": 23
+      "order": 6,
+      "startTime": 21
     }
   ],
   "theme": "Mindful Presence",
-  "actualDuration": 28,
-  "poseCount": 7
+  "actualDuration": 26,
+  "poseCount": 6
 }
