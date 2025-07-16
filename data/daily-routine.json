@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-15",
+  "date": "2025-07-16",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,18 +20,22 @@
       "startTime": 0
     },
     {
-      "name": "Half-Butterfly",
-      "sanskrit": "Half-Butterfly",
-      "duration": 4,
+      "name": "Frog",
+      "sanskrit": "Frog",
+      "duration": 5,
       "category": "hip_opener",
-      "description": "Asymmetrical pose targeting one side at a time for focused hip opening.",
-      "instructions": "Sit with one leg straight, other foot drawn into inner thigh. Fold forward over straight leg.",
+      "description": "Deep hip opener targeting the inner groin and hip sockets.",
+      "instructions": "Start in Child's Pose and slide hands forward, separate knees while remaining sitting on heels.",
       "benefits": [
-        "Focused hip opening",
-        "Hamstring stretch",
-        "Spinal mobility"
+        "Opens inner groin and adductors",
+        "Increases hip flexibility",
+        "May provide spinal extension"
       ],
-      "image": "assets/images/fig3-7.png",
+      "image": "assets/images/fig3-23.png",
+      "contraindications": [
+        "If you have back issues, compression may be too much",
+        "Use knee padding if knees complain"
+      ],
       "order": 2,
       "startTime": 3
     },
@@ -53,7 +57,23 @@
         "Use knee padding if knees complain"
       ],
       "order": 3,
-      "startTime": 7
+      "startTime": 8
+    },
+    {
+      "name": "Butterfly",
+      "sanskrit": "Butterfly",
+      "duration": 4,
+      "category": "hip_opener",
+      "description": "Gentle hip opener that opens the groin and inner thighs.",
+      "instructions": "Sit with soles of feet together, hold feet and gently fold forward from hips.",
+      "benefits": [
+        "Opens hips and inner thighs",
+        "Stimulates abdominal organs",
+        "Calms the mind"
+      ],
+      "image": "assets/images/fig3-40.png",
+      "order": 4,
+      "startTime": 13
     },
     {
       "name": "Frog",
@@ -72,22 +92,6 @@
         "If you have back issues, compression may be too much",
         "Use knee padding if knees complain"
       ],
-      "order": 4,
-      "startTime": 12
-    },
-    {
-      "name": "Butterfly",
-      "sanskrit": "Butterfly",
-      "duration": 4,
-      "category": "hip_opener",
-      "description": "Gentle hip opener that opens the groin and inner thighs.",
-      "instructions": "Sit with soles of feet together, hold feet and gently fold forward from hips.",
-      "benefits": [
-        "Opens hips and inner thighs",
-        "Stimulates abdominal organs",
-        "Calms the mind"
-      ],
-      "image": "assets/images/fig3-40.png",
       "order": 5,
       "startTime": 17
     },
@@ -105,10 +109,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 6,
-      "startTime": 21
+      "startTime": 22
     }
   ],
   "theme": "Opening to Peace",
-  "actualDuration": 26,
+  "actualDuration": 27,
   "poseCount": 6
 }
