@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-18",
+  "date": "2025-07-19",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,42 +20,26 @@
       "startTime": 0
     },
     {
-      "name": "Butterfly",
-      "sanskrit": "Butterfly",
-      "duration": 4,
+      "name": "Frog",
+      "sanskrit": "Frog",
+      "duration": 5,
       "category": "hip_opener",
-      "description": "Gentle hip opener that opens the groin and inner thighs.",
-      "instructions": "Sit with soles of feet together, hold feet and gently fold forward from hips.",
+      "description": "Deep hip opener targeting the inner groin and hip sockets.",
+      "instructions": "Start in Child's Pose and slide hands forward, separate knees while remaining sitting on heels.",
       "benefits": [
-        "Opens hips and inner thighs",
-        "Stimulates abdominal organs",
-        "Calms the mind"
+        "Opens inner groin and adductors",
+        "Increases hip flexibility",
+        "May provide spinal extension"
       ],
-      "image": "assets/images/fig3-40.png",
+      "image": "assets/images/fig3-23.png",
+      "contraindications": [
+        "If you have back issues, compression may be too much",
+        "Use knee padding if knees complain"
+      ],
       "order": 2,
       "startTime": 3
     },
     {
-      "name": "Frog",
-      "sanskrit": "Frog",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting the inner groin and hip sockets.",
-      "instructions": "Start in Child's Pose and slide hands forward, separate knees while remaining sitting on heels.",
-      "benefits": [
-        "Opens inner groin and adductors",
-        "Increases hip flexibility",
-        "May provide spinal extension"
-      ],
-      "image": "assets/images/fig3-23.png",
-      "contraindications": [
-        "If you have back issues, compression may be too much",
-        "Use knee padding if knees complain"
-      ],
-      "order": 3,
-      "startTime": 7
-    },
-    {
       "name": "Butterfly",
       "sanskrit": "Butterfly",
       "duration": 4,
@@ -68,8 +52,8 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-40.png",
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Frog",
@@ -88,8 +72,28 @@
         "If you have back issues, compression may be too much",
         "Use knee padding if knees complain"
       ],
+      "order": 4,
+      "startTime": 12
+    },
+    {
+      "name": "Dragon",
+      "sanskrit": "Dragon",
+      "duration": 5,
+      "category": "hip_opener",
+      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
+      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
+      "benefits": [
+        "Stretches hip flexors and quadriceps",
+        "Opens hip sockets",
+        "Improves hip mobility"
+      ],
+      "image": "assets/images/fig3-20.png",
+      "contraindications": [
+        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
+        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
+      ],
       "order": 5,
-      "startTime": 16
+      "startTime": 17
     },
     {
       "name": "Savasana",
@@ -105,10 +109,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 6,
-      "startTime": 21
+      "startTime": 22
     }
   ],
   "theme": "Opening to Peace",
-  "actualDuration": 26,
+  "actualDuration": 27,
   "poseCount": 6
 }
