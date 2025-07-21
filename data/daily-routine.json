@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-20",
+  "date": "2025-07-21",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Butterfly",
-      "sanskrit": "Butterfly",
-      "duration": 4,
-      "category": "hip_opener",
-      "description": "Gentle hip opener that opens the groin and inner thighs.",
-      "instructions": "Sit with soles of feet together, hold feet and gently fold forward from hips.",
-      "benefits": [
-        "Opens hips and inner thighs",
-        "Stimulates abdominal organs",
-        "Calms the mind"
-      ],
-      "image": "assets/images/fig3-40.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Frog",
       "sanskrit": "Frog",
       "duration": 5,
@@ -52,8 +36,8 @@
         "If you have back issues, compression may be too much",
         "Use knee padding if knees complain"
       ],
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Dragon",
@@ -72,8 +56,8 @@
         "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
         "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
       ],
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Square",
@@ -88,8 +72,24 @@
         "Prepares for lotus variations"
       ],
       "image": "assets/images/fig3-39.png",
+      "order": 4,
+      "startTime": 13
+    },
+    {
+      "name": "Bridge",
+      "sanskrit": "Bridge",
+      "duration": 3,
+      "category": "backbend",
+      "description": "Gentle backbend opening the chest and strengthening the back body.",
+      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
+      "benefits": [
+        "Opens chest and heart",
+        "Strengthens glutes and back",
+        "Energizing pose"
+      ],
+      "image": "assets/images/fig3-5.png",
       "order": 5,
-      "startTime": 17
+      "startTime": 18
     },
     {
       "name": "Savasana",
@@ -105,10 +105,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 6,
-      "startTime": 22
+      "startTime": 21
     }
   ],
   "theme": "Opening to Peace",
-  "actualDuration": 27,
+  "actualDuration": 26,
   "poseCount": 6
 }
