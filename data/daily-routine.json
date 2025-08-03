@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-02",
+  "date": "2025-08-03",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Caterpillar",
-      "sanskrit": "Caterpillar",
-      "duration": 5,
-      "category": "forward_fold",
-      "description": "Deep forward fold stretching the entire back body and hamstrings.",
-      "instructions": "Sit with legs extended, fold forward from hips allowing spine to round naturally.",
-      "benefits": [
-        "Stretches spine and hamstrings",
-        "Calms the mind",
-        "Improves digestion"
-      ],
-      "image": "assets/images/fig3-12.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Sphinx and Seal",
       "sanskrit": "Sphinx and Seal",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Opens chest"
       ],
       "image": "assets/images/fig3-37.png",
-      "order": 3,
-      "startTime": 8
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Frog",
@@ -68,6 +52,22 @@
         "If you have back issues, compression may be too much",
         "Use knee padding if knees complain"
       ],
+      "order": 3,
+      "startTime": 7
+    },
+    {
+      "name": "Reclining Twists",
+      "sanskrit": "Reclining Twists",
+      "duration": 4,
+      "category": "twist",
+      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
+      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      "benefits": [
+        "Wrings out spine",
+        "Aids digestion",
+        "Releases lower back tension"
+      ],
+      "image": "assets/images/fig3-31.png",
       "order": 4,
       "startTime": 12
     },
@@ -85,7 +85,23 @@
       ],
       "image": "assets/images/fig3-31.png",
       "order": 5,
-      "startTime": 17
+      "startTime": 16
+    },
+    {
+      "name": "Reclining Twists",
+      "sanskrit": "Reclining Twists",
+      "duration": 3,
+      "category": "twist",
+      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
+      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      "benefits": [
+        "Wrings out spine",
+        "Aids digestion",
+        "Releases lower back tension"
+      ],
+      "image": "assets/images/fig3-31.png",
+      "order": 6,
+      "startTime": 20
     },
     {
       "name": "Savasana",
@@ -100,11 +116,11 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-60.png",
-      "order": 6,
-      "startTime": 21
+      "order": 7,
+      "startTime": 23
     }
   ],
   "theme": "Heart Opening Journey",
-  "actualDuration": 26,
-  "poseCount": 6
+  "actualDuration": 28,
+  "poseCount": 7
 }
