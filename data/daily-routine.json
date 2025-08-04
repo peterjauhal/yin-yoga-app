@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-03",
+  "date": "2025-08-04",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Sphinx and Seal",
-      "sanskrit": "Sphinx and Seal",
-      "duration": 4,
-      "category": "backbend",
-      "description": "Progressive backbends working from gentle to deeper spinal extension.",
-      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
-      "benefits": [
-        "Spinal extension",
-        "Strengthens back muscles",
-        "Opens chest"
-      ],
-      "image": "assets/images/fig3-37.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Frog",
       "sanskrit": "Frog",
       "duration": 5,
@@ -52,8 +36,24 @@
         "If you have back issues, compression may be too much",
         "Use knee padding if knees complain"
       ],
+      "order": 2,
+      "startTime": 3
+    },
+    {
+      "name": "Reclining Twists",
+      "sanskrit": "Reclining Twists",
+      "duration": 4,
+      "category": "twist",
+      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
+      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      "benefits": [
+        "Wrings out spine",
+        "Aids digestion",
+        "Releases lower back tension"
+      ],
+      "image": "assets/images/fig3-31.png",
       "order": 3,
-      "startTime": 7
+      "startTime": 8
     },
     {
       "name": "Reclining Twists",
@@ -88,18 +88,18 @@
       "startTime": 16
     },
     {
-      "name": "Reclining Twists",
-      "sanskrit": "Reclining Twists",
+      "name": "Child's Pose",
+      "sanskrit": "Child's Pose",
       "duration": 3,
-      "category": "twist",
-      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
-      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      "category": "forward_fold",
+      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
+      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
       "benefits": [
-        "Wrings out spine",
-        "Aids digestion",
-        "Releases lower back tension"
+        "Calms nervous system",
+        "Stretches back and shoulders",
+        "Promotes introspection"
       ],
-      "image": "assets/images/fig3-31.png",
+      "image": "assets/images/fig3-14.png",
       "order": 6,
       "startTime": 20
     },
