@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-08",
+  "date": "2025-08-09",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,18 +20,18 @@
       "startTime": 0
     },
     {
-      "name": "Child's Pose",
-      "sanskrit": "Child's Pose",
-      "duration": 4,
-      "category": "forward_fold",
-      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
-      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
+      "name": "Bridge",
+      "sanskrit": "Bridge",
+      "duration": 3,
+      "category": "backbend",
+      "description": "Gentle backbend opening the chest and strengthening the back body.",
+      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
       "benefits": [
-        "Calms nervous system",
-        "Stretches back and shoulders",
-        "Promotes introspection"
+        "Opens chest and heart",
+        "Strengthens glutes and back",
+        "Energizing pose"
       ],
-      "image": "assets/images/fig3-14.png",
+      "image": "assets/images/fig3-5.png",
       "order": 2,
       "startTime": 3
     },
@@ -49,23 +49,7 @@
       ],
       "image": "assets/images/fig3-5.png",
       "order": 3,
-      "startTime": 7
-    },
-    {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 4,
-      "startTime": 10
+      "startTime": 6
     },
     {
       "name": "Reclining Twists",
@@ -80,8 +64,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 5,
-      "startTime": 13
+      "order": 4,
+      "startTime": 9
     },
     {
       "name": "Half-Butterfly",
@@ -96,6 +80,22 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
+      "order": 5,
+      "startTime": 13
+    },
+    {
+      "name": "Sphinx and Seal",
+      "sanskrit": "Sphinx and Seal",
+      "duration": 4,
+      "category": "backbend",
+      "description": "Progressive backbends working from gentle to deeper spinal extension.",
+      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      "benefits": [
+        "Spinal extension",
+        "Strengthens back muscles",
+        "Opens chest"
+      ],
+      "image": "assets/images/fig3-37.png",
       "order": 6,
       "startTime": 17
     },
