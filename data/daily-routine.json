@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-09",
+  "date": "2025-08-10",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -36,22 +36,6 @@
       "startTime": 3
     },
     {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 3,
-      "startTime": 6
-    },
-    {
       "name": "Reclining Twists",
       "sanskrit": "Reclining Twists",
       "duration": 4,
@@ -64,8 +48,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 4,
-      "startTime": 9
+      "order": 3,
+      "startTime": 6
     },
     {
       "name": "Half-Butterfly",
@@ -80,8 +64,8 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
-      "order": 5,
-      "startTime": 13
+      "order": 4,
+      "startTime": 10
     },
     {
       "name": "Sphinx and Seal",
@@ -96,8 +80,24 @@
         "Opens chest"
       ],
       "image": "assets/images/fig3-37.png",
+      "order": 5,
+      "startTime": 14
+    },
+    {
+      "name": "Bridge",
+      "sanskrit": "Bridge",
+      "duration": 3,
+      "category": "backbend",
+      "description": "Gentle backbend opening the chest and strengthening the back body.",
+      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
+      "benefits": [
+        "Opens chest and heart",
+        "Strengthens glutes and back",
+        "Energizing pose"
+      ],
+      "image": "assets/images/fig3-5.png",
       "order": 6,
-      "startTime": 17
+      "startTime": 18
     },
     {
       "name": "Savasana",
