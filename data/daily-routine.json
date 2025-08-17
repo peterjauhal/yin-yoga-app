@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-16",
+  "date": "2025-08-17",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Child's Pose",
       "sanskrit": "Child's Pose",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Promotes introspection"
       ],
       "image": "assets/images/fig3-14.png",
-      "order": 3,
-      "startTime": 6
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Dragon",
@@ -68,8 +52,8 @@
         "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
         "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
       ],
-      "order": 4,
-      "startTime": 10
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Square",
@@ -84,13 +68,13 @@
         "Prepares for lotus variations"
       ],
       "image": "assets/images/fig3-39.png",
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 12
     },
     {
       "name": "Snail",
       "sanskrit": "Snail",
-      "duration": 3,
+      "duration": 4,
       "category": "forward_fold",
       "description": "Inverted forward fold providing deep spinal flexion.",
       "instructions": "Lie on back, lift legs overhead and support with hands on lower back.",
@@ -100,8 +84,8 @@
         "Introspective pose"
       ],
       "image": "assets/images/fig3-35.png",
-      "order": 6,
-      "startTime": 20
+      "order": 5,
+      "startTime": 17
     },
     {
       "name": "Savasana",
@@ -116,11 +100,11 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-60.png",
-      "order": 7,
-      "startTime": 23
+      "order": 6,
+      "startTime": 21
     }
   ],
   "theme": "Inner Strength",
-  "actualDuration": 28,
-  "poseCount": 7
+  "actualDuration": 26,
+  "poseCount": 6
 }
