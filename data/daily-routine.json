@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-19",
+  "date": "2025-08-20",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Square",
-      "sanskrit": "Square",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Intense hip opener working both hips simultaneously.",
-      "instructions": "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
-      "benefits": [
-        "Deep hip opening",
-        "External rotation",
-        "Prepares for lotus variations"
-      ],
-      "image": "assets/images/fig3-39.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Snail",
       "sanskrit": "Snail",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Introspective pose"
       ],
       "image": "assets/images/fig3-35.png",
-      "order": 3,
-      "startTime": 8
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Half-Butterfly",
@@ -64,8 +48,8 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Reclining Twists",
@@ -80,8 +64,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 5,
-      "startTime": 16
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Bridge",
@@ -96,8 +80,28 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Anahatasana",
+      "sanskrit": "Anahatasana",
+      "duration": 4,
+      "category": "forward_fold",
+      "description": "Heart melting pose targeting middle and upper back extension.",
+      "instructions": "From hands and knees, walk hands forward allowing chest to drop toward floor. Keep hips over knees.",
+      "benefits": [
+        "Opens middle and upper back",
+        "Heart opening qualities",
+        "Shoulder mobility"
+      ],
+      "image": "assets/images/fig3-1.png",
+      "contraindications": [
+        "Take care with neck positioning to avoid strain",
+        "Watch for tingling in hands - adjust arm position if needed"
+      ],
       "order": 6,
-      "startTime": 20
+      "startTime": 18
     },
     {
       "name": "Savasana",
@@ -113,10 +117,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 7,
-      "startTime": 23
+      "startTime": 22
     }
   ],
   "theme": "Gentle Flexibility",
-  "actualDuration": 28,
+  "actualDuration": 27,
   "poseCount": 7
 }
