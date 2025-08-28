@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-27",
+  "date": "2025-08-28",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Child's Pose",
-      "sanskrit": "Child's Pose",
-      "duration": 4,
-      "category": "forward_fold",
-      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
-      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
-      "benefits": [
-        "Calms nervous system",
-        "Stretches back and shoulders",
-        "Promotes introspection"
-      ],
-      "image": "assets/images/fig3-14.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Bridge",
       "sanskrit": "Bridge",
       "duration": 3,
@@ -48,8 +32,24 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
+      "order": 2,
+      "startTime": 3
+    },
+    {
+      "name": "Reclining Twists",
+      "sanskrit": "Reclining Twists",
+      "duration": 4,
+      "category": "twist",
+      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
+      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      "benefits": [
+        "Wrings out spine",
+        "Aids digestion",
+        "Releases lower back tension"
+      ],
+      "image": "assets/images/fig3-31.png",
       "order": 3,
-      "startTime": 7
+      "startTime": 6
     },
     {
       "name": "Reclining Twists",
@@ -68,22 +68,6 @@
       "startTime": 10
     },
     {
-      "name": "Reclining Twists",
-      "sanskrit": "Reclining Twists",
-      "duration": 4,
-      "category": "twist",
-      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
-      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
-      "benefits": [
-        "Wrings out spine",
-        "Aids digestion",
-        "Releases lower back tension"
-      ],
-      "image": "assets/images/fig3-31.png",
-      "order": 5,
-      "startTime": 14
-    },
-    {
       "name": "Bridge",
       "sanskrit": "Bridge",
       "duration": 3,
@@ -96,8 +80,24 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
+      "order": 5,
+      "startTime": 14
+    },
+    {
+      "name": "Reclining Twists",
+      "sanskrit": "Reclining Twists",
+      "duration": 4,
+      "category": "twist",
+      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
+      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      "benefits": [
+        "Wrings out spine",
+        "Aids digestion",
+        "Releases lower back tension"
+      ],
+      "image": "assets/images/fig3-31.png",
       "order": 6,
-      "startTime": 18
+      "startTime": 17
     },
     {
       "name": "Savasana",
