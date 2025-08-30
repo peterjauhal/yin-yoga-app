@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-29",
+  "date": "2025-08-30",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -36,38 +36,22 @@
       "startTime": 3
     },
     {
-      "name": "Reclining Twists",
-      "sanskrit": "Reclining Twists",
-      "duration": 4,
-      "category": "twist",
-      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
-      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      "name": "Bridge",
+      "sanskrit": "Bridge",
+      "duration": 3,
+      "category": "backbend",
+      "description": "Gentle backbend opening the chest and strengthening the back body.",
+      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
       "benefits": [
-        "Wrings out spine",
-        "Aids digestion",
-        "Releases lower back tension"
+        "Opens chest and heart",
+        "Strengthens glutes and back",
+        "Energizing pose"
       ],
-      "image": "assets/images/fig3-31.png",
+      "image": "assets/images/fig3-5.png",
       "order": 3,
       "startTime": 7
     },
     {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 4,
-      "startTime": 11
-    },
-    {
       "name": "Reclining Twists",
       "sanskrit": "Reclining Twists",
       "duration": 4,
@@ -80,8 +64,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 5,
-      "startTime": 14
+      "order": 4,
+      "startTime": 10
     },
     {
       "name": "Bridge",
@@ -96,8 +80,24 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
+      "order": 5,
+      "startTime": 14
+    },
+    {
+      "name": "Half-Butterfly",
+      "sanskrit": "Half-Butterfly",
+      "duration": 4,
+      "category": "hip_opener",
+      "description": "Asymmetrical pose targeting one side at a time for focused hip opening.",
+      "instructions": "Sit with one leg straight, other foot drawn into inner thigh. Fold forward over straight leg.",
+      "benefits": [
+        "Focused hip opening",
+        "Hamstring stretch",
+        "Spinal mobility"
+      ],
+      "image": "assets/images/fig3-7.png",
       "order": 6,
-      "startTime": 18
+      "startTime": 17
     },
     {
       "name": "Savasana",
