@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-31",
+  "date": "2025-09-01",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Reclining Twists",
       "sanskrit": "Reclining Twists",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 3,
-      "startTime": 6
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Bridge",
@@ -64,8 +48,8 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
-      "order": 4,
-      "startTime": 10
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Half-Butterfly",
@@ -80,8 +64,8 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
-      "order": 5,
-      "startTime": 13
+      "order": 4,
+      "startTime": 10
     },
     {
       "name": "Sphinx and Seal",
@@ -96,8 +80,24 @@
         "Opens chest"
       ],
       "image": "assets/images/fig3-37.png",
+      "order": 5,
+      "startTime": 14
+    },
+    {
+      "name": "Dangling",
+      "sanskrit": "Dangling",
+      "duration": 4,
+      "category": "forward_fold",
+      "description": "Standing forward fold providing spinal traction and hamstring stretch.",
+      "instructions": "Stand with feet apart, bend knees slightly and fold forward. Clasp elbows or rest on knees.",
+      "benefits": [
+        "Spinal traction",
+        "Hamstring stretch",
+        "Calms nervous system"
+      ],
+      "image": "assets/images/fig3-17.png",
       "order": 6,
-      "startTime": 17
+      "startTime": 18
     },
     {
       "name": "Savasana",
@@ -113,10 +113,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 7,
-      "startTime": 21
+      "startTime": 22
     }
   ],
   "theme": "Mindful Presence",
-  "actualDuration": 26,
+  "actualDuration": 27,
   "poseCount": 7
 }
