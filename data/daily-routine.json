@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-07",
+  "date": "2025-09-08",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,26 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Dragon",
-      "sanskrit": "Dragon",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
-      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
-      "benefits": [
-        "Stretches hip flexors and quadriceps",
-        "Opens hip sockets",
-        "Improves hip mobility"
-      ],
-      "image": "assets/images/fig3-20.png",
-      "contraindications": [
-        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
-        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
-      ],
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Butterfly",
       "sanskrit": "Butterfly",
       "duration": 4,
@@ -52,8 +32,8 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-40.png",
-      "order": 3,
-      "startTime": 8
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Dragon",
@@ -72,8 +52,8 @@
         "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
         "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
       ],
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -88,8 +68,40 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
+      "order": 4,
+      "startTime": 12
+    },
+    {
+      "name": "Half-Butterfly",
+      "sanskrit": "Half-Butterfly",
+      "duration": 4,
+      "category": "hip_opener",
+      "description": "Asymmetrical pose targeting one side at a time for focused hip opening.",
+      "instructions": "Sit with one leg straight, other foot drawn into inner thigh. Fold forward over straight leg.",
+      "benefits": [
+        "Focused hip opening",
+        "Hamstring stretch",
+        "Spinal mobility"
+      ],
+      "image": "assets/images/fig3-7.png",
       "order": 5,
-      "startTime": 17
+      "startTime": 16
+    },
+    {
+      "name": "Reclining Twists",
+      "sanskrit": "Reclining Twists",
+      "duration": 3,
+      "category": "twist",
+      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
+      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      "benefits": [
+        "Wrings out spine",
+        "Aids digestion",
+        "Releases lower back tension"
+      ],
+      "image": "assets/images/fig3-31.png",
+      "order": 6,
+      "startTime": 20
     },
     {
       "name": "Savasana",
@@ -104,11 +116,11 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-60.png",
-      "order": 6,
-      "startTime": 21
+      "order": 7,
+      "startTime": 23
     }
   ],
   "theme": "Opening to Peace",
-  "actualDuration": 26,
-  "poseCount": 6
+  "actualDuration": 28,
+  "poseCount": 7
 }
