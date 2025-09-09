@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-08",
+  "date": "2025-09-09",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Butterfly",
-      "sanskrit": "Butterfly",
-      "duration": 4,
-      "category": "hip_opener",
-      "description": "Gentle hip opener that opens the groin and inner thighs.",
-      "instructions": "Sit with soles of feet together, hold feet and gently fold forward from hips.",
-      "benefits": [
-        "Opens hips and inner thighs",
-        "Stimulates abdominal organs",
-        "Calms the mind"
-      ],
-      "image": "assets/images/fig3-40.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Dragon",
       "sanskrit": "Dragon",
       "duration": 5,
@@ -52,8 +36,8 @@
         "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
         "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
       ],
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -68,8 +52,8 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Half-Butterfly",
@@ -84,13 +68,13 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
-      "order": 5,
-      "startTime": 16
+      "order": 4,
+      "startTime": 12
     },
     {
       "name": "Reclining Twists",
       "sanskrit": "Reclining Twists",
-      "duration": 3,
+      "duration": 4,
       "category": "twist",
       "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
       "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
@@ -100,6 +84,22 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
+      "order": 5,
+      "startTime": 16
+    },
+    {
+      "name": "Child's Pose",
+      "sanskrit": "Child's Pose",
+      "duration": 3,
+      "category": "forward_fold",
+      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
+      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
+      "benefits": [
+        "Calms nervous system",
+        "Stretches back and shoulders",
+        "Promotes introspection"
+      ],
+      "image": "assets/images/fig3-14.png",
       "order": 6,
       "startTime": 20
     },
@@ -120,7 +120,7 @@
       "startTime": 23
     }
   ],
-  "theme": "Opening to Peace",
+  "theme": "Releasing Tension",
   "actualDuration": 28,
   "poseCount": 7
 }
