@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-13",
+  "date": "2025-09-14",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -36,22 +36,6 @@
       "startTime": 3
     },
     {
-      "name": "Child's Pose",
-      "sanskrit": "Child's Pose",
-      "duration": 4,
-      "category": "forward_fold",
-      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
-      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
-      "benefits": [
-        "Calms nervous system",
-        "Stretches back and shoulders",
-        "Promotes introspection"
-      ],
-      "image": "assets/images/fig3-14.png",
-      "order": 3,
-      "startTime": 7
-    },
-    {
       "name": "Reclining Twists",
       "sanskrit": "Reclining Twists",
       "duration": 4,
@@ -64,8 +48,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Child's Pose",
@@ -80,13 +64,29 @@
         "Promotes introspection"
       ],
       "image": "assets/images/fig3-14.png",
+      "order": 4,
+      "startTime": 11
+    },
+    {
+      "name": "Square",
+      "sanskrit": "Square",
+      "duration": 5,
+      "category": "hip_opener",
+      "description": "Intense hip opener working both hips simultaneously.",
+      "instructions": "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
+      "benefits": [
+        "Deep hip opening",
+        "External rotation",
+        "Prepares for lotus variations"
+      ],
+      "image": "assets/images/fig3-39.png",
       "order": 5,
       "startTime": 15
     },
     {
       "name": "Square",
       "sanskrit": "Square",
-      "duration": 4,
+      "duration": 3,
       "category": "hip_opener",
       "description": "Intense hip opener working both hips simultaneously.",
       "instructions": "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
@@ -97,7 +97,7 @@
       ],
       "image": "assets/images/fig3-39.png",
       "order": 6,
-      "startTime": 19
+      "startTime": 20
     },
     {
       "name": "Savasana",
