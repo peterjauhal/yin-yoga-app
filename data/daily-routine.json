@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-16",
+  "date": "2025-09-17",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,18 +20,18 @@
       "startTime": 0
     },
     {
-      "name": "Child's Pose",
-      "sanskrit": "Child's Pose",
-      "duration": 4,
-      "category": "forward_fold",
-      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
-      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
+      "name": "Square",
+      "sanskrit": "Square",
+      "duration": 5,
+      "category": "hip_opener",
+      "description": "Intense hip opener working both hips simultaneously.",
+      "instructions": "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
       "benefits": [
-        "Calms nervous system",
-        "Stretches back and shoulders",
-        "Promotes introspection"
+        "Deep hip opening",
+        "External rotation",
+        "Prepares for lotus variations"
       ],
-      "image": "assets/images/fig3-14.png",
+      "image": "assets/images/fig3-39.png",
       "order": 2,
       "startTime": 3
     },
@@ -49,23 +49,7 @@
       ],
       "image": "assets/images/fig3-39.png",
       "order": 3,
-      "startTime": 7
-    },
-    {
-      "name": "Square",
-      "sanskrit": "Square",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Intense hip opener working both hips simultaneously.",
-      "instructions": "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
-      "benefits": [
-        "Deep hip opening",
-        "External rotation",
-        "Prepares for lotus variations"
-      ],
-      "image": "assets/images/fig3-39.png",
-      "order": 4,
-      "startTime": 12
+      "startTime": 8
     },
     {
       "name": "Bridge",
@@ -80,13 +64,13 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
-      "order": 5,
-      "startTime": 17
+      "order": 4,
+      "startTime": 13
     },
     {
       "name": "Dragon",
       "sanskrit": "Dragon",
-      "duration": 3,
+      "duration": 5,
       "category": "hip_opener",
       "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
       "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
@@ -100,8 +84,8 @@
         "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
         "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
       ],
-      "order": 6,
-      "startTime": 20
+      "order": 5,
+      "startTime": 16
     },
     {
       "name": "Savasana",
@@ -116,11 +100,11 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-60.png",
-      "order": 7,
-      "startTime": 23
+      "order": 6,
+      "startTime": 21
     }
   ],
   "theme": "Heart Opening Journey",
-  "actualDuration": 28,
-  "poseCount": 7
+  "actualDuration": 26,
+  "poseCount": 6
 }
