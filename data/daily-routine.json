@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-19",
+  "date": "2025-09-20",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Dragon",
       "sanskrit": "Dragon",
       "duration": 5,
@@ -52,8 +36,8 @@
         "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
         "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
       ],
-      "order": 3,
-      "startTime": 6
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Butterfly",
@@ -68,8 +52,8 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-40.png",
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Sphinx and Seal",
@@ -84,8 +68,24 @@
         "Opens chest"
       ],
       "image": "assets/images/fig3-37.png",
+      "order": 4,
+      "startTime": 12
+    },
+    {
+      "name": "Bridge",
+      "sanskrit": "Bridge",
+      "duration": 3,
+      "category": "backbend",
+      "description": "Gentle backbend opening the chest and strengthening the back body.",
+      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
+      "benefits": [
+        "Opens chest and heart",
+        "Strengthens glutes and back",
+        "Energizing pose"
+      ],
+      "image": "assets/images/fig3-5.png",
       "order": 5,
-      "startTime": 15
+      "startTime": 16
     },
     {
       "name": "Bridge",
