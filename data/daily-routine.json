@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-28",
+  "date": "2025-09-29",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Half-Butterfly",
       "sanskrit": "Half-Butterfly",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
-      "order": 3,
-      "startTime": 6
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -64,8 +48,8 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 4,
-      "startTime": 10
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Butterfly",
@@ -80,8 +64,8 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-40.png",
-      "order": 5,
-      "startTime": 14
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Half-Butterfly",
@@ -96,8 +80,24 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Square",
+      "sanskrit": "Square",
+      "duration": 4,
+      "category": "hip_opener",
+      "description": "Intense hip opener working both hips simultaneously.",
+      "instructions": "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
+      "benefits": [
+        "Deep hip opening",
+        "External rotation",
+        "Prepares for lotus variations"
+      ],
+      "image": "assets/images/fig3-39.png",
       "order": 6,
-      "startTime": 18
+      "startTime": 19
     },
     {
       "name": "Savasana",
@@ -113,10 +113,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 7,
-      "startTime": 22
+      "startTime": 23
     }
   ],
   "theme": "Grounding Practice",
-  "actualDuration": 27,
+  "actualDuration": 28,
   "poseCount": 7
 }
