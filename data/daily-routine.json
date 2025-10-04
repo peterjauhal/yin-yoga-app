@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-03",
+  "date": "2025-10-04",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Square",
-      "sanskrit": "Square",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Intense hip opener working both hips simultaneously.",
-      "instructions": "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
-      "benefits": [
-        "Deep hip opening",
-        "External rotation",
-        "Prepares for lotus variations"
-      ],
-      "image": "assets/images/fig3-39.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Frog",
       "sanskrit": "Frog",
       "duration": 5,
@@ -52,8 +36,8 @@
         "If you have back issues, compression may be too much",
         "Use knee padding if knees complain"
       ],
-      "order": 3,
-      "startTime": 8
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -68,8 +52,8 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 4,
-      "startTime": 13
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Reclining Twists",
@@ -84,8 +68,24 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
+      "order": 4,
+      "startTime": 12
+    },
+    {
+      "name": "Caterpillar",
+      "sanskrit": "Caterpillar",
+      "duration": 5,
+      "category": "forward_fold",
+      "description": "Deep forward fold stretching the entire back body and hamstrings.",
+      "instructions": "Sit with legs extended, fold forward from hips allowing spine to round naturally.",
+      "benefits": [
+        "Stretches spine and hamstrings",
+        "Calms the mind",
+        "Improves digestion"
+      ],
+      "image": "assets/images/fig3-12.png",
       "order": 5,
-      "startTime": 17
+      "startTime": 16
     },
     {
       "name": "Savasana",
