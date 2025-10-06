@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-05",
+  "date": "2025-10-06",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Cat Pulling Its Tail",
-      "sanskrit": "Cat Pulling Its Tail",
-      "duration": 4,
-      "category": "twist",
-      "description": "Asymmetrical twist combining hip opening with spinal rotation.",
-      "instructions": "Lie on side, bend top knee and reach back to hold foot, creating twist through spine.",
-      "benefits": [
-        "Spinal rotation",
-        "Hip flexor stretch",
-        "Side body opening"
-      ],
-      "image": "assets/images/fig3-11.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Reclining Twists",
       "sanskrit": "Reclining Twists",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Caterpillar",
@@ -64,8 +48,24 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
+      "order": 3,
+      "startTime": 7
+    },
+    {
+      "name": "Bridge",
+      "sanskrit": "Bridge",
+      "duration": 3,
+      "category": "backbend",
+      "description": "Gentle backbend opening the chest and strengthening the back body.",
+      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
+      "benefits": [
+        "Opens chest and heart",
+        "Strengthens glutes and back",
+        "Energizing pose"
+      ],
+      "image": "assets/images/fig3-5.png",
       "order": 4,
-      "startTime": 11
+      "startTime": 12
     },
     {
       "name": "Bridge",
@@ -81,23 +81,23 @@
       ],
       "image": "assets/images/fig3-5.png",
       "order": 5,
-      "startTime": 16
+      "startTime": 15
     },
     {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
+      "name": "Sphinx and Seal",
+      "sanskrit": "Sphinx and Seal",
+      "duration": 4,
       "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
+      "description": "Progressive backbends working from gentle to deeper spinal extension.",
+      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
       "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
+        "Spinal extension",
+        "Strengthens back muscles",
+        "Opens chest"
       ],
-      "image": "assets/images/fig3-5.png",
+      "image": "assets/images/fig3-37.png",
       "order": 6,
-      "startTime": 19
+      "startTime": 18
     },
     {
       "name": "Savasana",
