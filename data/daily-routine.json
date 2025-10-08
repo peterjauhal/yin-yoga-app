@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-07",
+  "date": "2025-10-08",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,18 +20,18 @@
       "startTime": 0
     },
     {
-      "name": "Caterpillar",
-      "sanskrit": "Caterpillar",
-      "duration": 5,
-      "category": "forward_fold",
-      "description": "Deep forward fold stretching the entire back body and hamstrings.",
-      "instructions": "Sit with legs extended, fold forward from hips allowing spine to round naturally.",
+      "name": "Bridge",
+      "sanskrit": "Bridge",
+      "duration": 3,
+      "category": "backbend",
+      "description": "Gentle backbend opening the chest and strengthening the back body.",
+      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
       "benefits": [
-        "Stretches spine and hamstrings",
-        "Calms the mind",
-        "Improves digestion"
+        "Opens chest and heart",
+        "Strengthens glutes and back",
+        "Energizing pose"
       ],
-      "image": "assets/images/fig3-12.png",
+      "image": "assets/images/fig3-5.png",
       "order": 2,
       "startTime": 3
     },
@@ -49,23 +49,7 @@
       ],
       "image": "assets/images/fig3-5.png",
       "order": 3,
-      "startTime": 8
-    },
-    {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 4,
-      "startTime": 11
+      "startTime": 6
     },
     {
       "name": "Sphinx and Seal",
@@ -80,8 +64,8 @@
         "Opens chest"
       ],
       "image": "assets/images/fig3-37.png",
-      "order": 5,
-      "startTime": 14
+      "order": 4,
+      "startTime": 9
     },
     {
       "name": "Bridge",
@@ -96,8 +80,40 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
+      "order": 5,
+      "startTime": 13
+    },
+    {
+      "name": "Reclining Twists",
+      "sanskrit": "Reclining Twists",
+      "duration": 4,
+      "category": "twist",
+      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
+      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      "benefits": [
+        "Wrings out spine",
+        "Aids digestion",
+        "Releases lower back tension"
+      ],
+      "image": "assets/images/fig3-31.png",
       "order": 6,
-      "startTime": 18
+      "startTime": 16
+    },
+    {
+      "name": "Bridge",
+      "sanskrit": "Bridge",
+      "duration": 3,
+      "category": "backbend",
+      "description": "Gentle backbend opening the chest and strengthening the back body.",
+      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
+      "benefits": [
+        "Opens chest and heart",
+        "Strengthens glutes and back",
+        "Energizing pose"
+      ],
+      "image": "assets/images/fig3-5.png",
+      "order": 7,
+      "startTime": 20
     },
     {
       "name": "Savasana",
@@ -112,11 +128,11 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-60.png",
-      "order": 7,
-      "startTime": 21
+      "order": 8,
+      "startTime": 23
     }
   ],
   "theme": "Gentle Flexibility",
-  "actualDuration": 26,
-  "poseCount": 7
+  "actualDuration": 28,
+  "poseCount": 8
 }
