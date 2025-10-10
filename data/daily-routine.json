@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-09",
+  "date": "2025-10-10",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Sphinx and Seal",
       "sanskrit": "Sphinx and Seal",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Opens chest"
       ],
       "image": "assets/images/fig3-37.png",
-      "order": 3,
-      "startTime": 6
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Bridge",
@@ -64,8 +48,8 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
-      "order": 4,
-      "startTime": 10
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Reclining Twists",
@@ -80,8 +64,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 5,
-      "startTime": 13
+      "order": 4,
+      "startTime": 10
     },
     {
       "name": "Bridge",
@@ -96,13 +80,13 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
-      "order": 6,
-      "startTime": 17
+      "order": 5,
+      "startTime": 14
     },
     {
       "name": "Cat Pulling Its Tail",
       "sanskrit": "Cat Pulling Its Tail",
-      "duration": 3,
+      "duration": 4,
       "category": "twist",
       "description": "Asymmetrical twist combining hip opening with spinal rotation.",
       "instructions": "Lie on side, bend top knee and reach back to hold foot, creating twist through spine.",
@@ -112,8 +96,8 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 7,
-      "startTime": 20
+      "order": 6,
+      "startTime": 17
     },
     {
       "name": "Savasana",
@@ -128,11 +112,11 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-60.png",
-      "order": 8,
-      "startTime": 23
+      "order": 7,
+      "startTime": 21
     }
   ],
   "theme": "Gentle Flexibility",
-  "actualDuration": 28,
-  "poseCount": 8
+  "actualDuration": 26,
+  "poseCount": 7
 }
