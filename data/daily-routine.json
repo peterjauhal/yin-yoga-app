@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-13",
+  "date": "2025-10-14",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Cat Pulling Its Tail",
       "sanskrit": "Cat Pulling Its Tail",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 3,
-      "startTime": 6
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Reclining Twists",
@@ -64,8 +48,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 4,
-      "startTime": 10
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Child's Pose",
@@ -80,8 +64,8 @@
         "Promotes introspection"
       ],
       "image": "assets/images/fig3-14.png",
-      "order": 5,
-      "startTime": 14
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Square",
@@ -96,8 +80,24 @@
         "Prepares for lotus variations"
       ],
       "image": "assets/images/fig3-39.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Child's Pose",
+      "sanskrit": "Child's Pose",
+      "duration": 3,
+      "category": "forward_fold",
+      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
+      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
+      "benefits": [
+        "Calms nervous system",
+        "Stretches back and shoulders",
+        "Promotes introspection"
+      ],
+      "image": "assets/images/fig3-14.png",
       "order": 6,
-      "startTime": 18
+      "startTime": 20
     },
     {
       "name": "Savasana",
@@ -116,7 +116,7 @@
       "startTime": 23
     }
   ],
-  "theme": "Gentle Flexibility",
+  "theme": "Mindful Presence",
   "actualDuration": 28,
   "poseCount": 7
 }
