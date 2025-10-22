@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-21",
+  "date": "2025-10-22",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,26 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Dragon",
-      "sanskrit": "Dragon",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
-      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
-      "benefits": [
-        "Stretches hip flexors and quadriceps",
-        "Opens hip sockets",
-        "Improves hip mobility"
-      ],
-      "image": "assets/images/fig3-20.png",
-      "contraindications": [
-        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
-        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
-      ],
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Sphinx and Seal",
       "sanskrit": "Sphinx and Seal",
       "duration": 4,
@@ -52,8 +32,8 @@
         "Opens chest"
       ],
       "image": "assets/images/fig3-37.png",
-      "order": 3,
-      "startTime": 8
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Bridge",
@@ -68,8 +48,8 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Dangling",
@@ -84,8 +64,8 @@
         "Calms nervous system"
       ],
       "image": "assets/images/fig3-17.png",
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 10
     },
     {
       "name": "Half-Butterfly",
@@ -100,8 +80,28 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
+      "order": 5,
+      "startTime": 14
+    },
+    {
+      "name": "Anahatasana",
+      "sanskrit": "Anahatasana",
+      "duration": 4,
+      "category": "forward_fold",
+      "description": "Heart melting pose targeting middle and upper back extension.",
+      "instructions": "From hands and knees, walk hands forward allowing chest to drop toward floor. Keep hips over knees.",
+      "benefits": [
+        "Opens middle and upper back",
+        "Heart opening qualities",
+        "Shoulder mobility"
+      ],
+      "image": "assets/images/fig3-1.png",
+      "contraindications": [
+        "Take care with neck positioning to avoid strain",
+        "Watch for tingling in hands - adjust arm position if needed"
+      ],
       "order": 6,
-      "startTime": 19
+      "startTime": 18
     },
     {
       "name": "Savasana",
@@ -117,10 +117,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 7,
-      "startTime": 23
+      "startTime": 22
     }
   ],
   "theme": "Opening to Peace",
-  "actualDuration": 28,
+  "actualDuration": 27,
   "poseCount": 7
 }
