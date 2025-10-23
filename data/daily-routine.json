@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-22",
+  "date": "2025-10-23",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Sphinx and Seal",
-      "sanskrit": "Sphinx and Seal",
-      "duration": 4,
-      "category": "backbend",
-      "description": "Progressive backbends working from gentle to deeper spinal extension.",
-      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
-      "benefits": [
-        "Spinal extension",
-        "Strengthens back muscles",
-        "Opens chest"
-      ],
-      "image": "assets/images/fig3-37.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Bridge",
       "sanskrit": "Bridge",
       "duration": 3,
@@ -48,8 +32,8 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Dangling",
@@ -64,8 +48,8 @@
         "Calms nervous system"
       ],
       "image": "assets/images/fig3-17.png",
-      "order": 4,
-      "startTime": 10
+      "order": 3,
+      "startTime": 6
     },
     {
       "name": "Half-Butterfly",
@@ -80,8 +64,8 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
-      "order": 5,
-      "startTime": 14
+      "order": 4,
+      "startTime": 10
     },
     {
       "name": "Anahatasana",
@@ -100,6 +84,22 @@
         "Take care with neck positioning to avoid strain",
         "Watch for tingling in hands - adjust arm position if needed"
       ],
+      "order": 5,
+      "startTime": 14
+    },
+    {
+      "name": "Caterpillar",
+      "sanskrit": "Caterpillar",
+      "duration": 5,
+      "category": "forward_fold",
+      "description": "Deep forward fold stretching the entire back body and hamstrings.",
+      "instructions": "Sit with legs extended, fold forward from hips allowing spine to round naturally.",
+      "benefits": [
+        "Stretches spine and hamstrings",
+        "Calms the mind",
+        "Improves digestion"
+      ],
+      "image": "assets/images/fig3-12.png",
       "order": 6,
       "startTime": 18
     },
@@ -117,10 +117,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 7,
-      "startTime": 22
+      "startTime": 23
     }
   ],
   "theme": "Opening to Peace",
-  "actualDuration": 27,
+  "actualDuration": 28,
   "poseCount": 7
 }
