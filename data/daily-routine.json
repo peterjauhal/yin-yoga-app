@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-23",
+  "date": "2025-10-24",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Dangling",
       "sanskrit": "Dangling",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Calms nervous system"
       ],
       "image": "assets/images/fig3-17.png",
-      "order": 3,
-      "startTime": 6
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Half-Butterfly",
@@ -64,8 +48,8 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
-      "order": 4,
-      "startTime": 10
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Anahatasana",
@@ -84,8 +68,8 @@
         "Take care with neck positioning to avoid strain",
         "Watch for tingling in hands - adjust arm position if needed"
       ],
-      "order": 5,
-      "startTime": 14
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Caterpillar",
@@ -100,8 +84,24 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Sphinx and Seal",
+      "sanskrit": "Sphinx and Seal",
+      "duration": 3,
+      "category": "backbend",
+      "description": "Progressive backbends working from gentle to deeper spinal extension.",
+      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      "benefits": [
+        "Spinal extension",
+        "Strengthens back muscles",
+        "Opens chest"
+      ],
+      "image": "assets/images/fig3-37.png",
       "order": 6,
-      "startTime": 18
+      "startTime": 20
     },
     {
       "name": "Savasana",
