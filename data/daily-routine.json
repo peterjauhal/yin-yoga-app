@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-25",
+  "date": "2025-10-26",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Half-Butterfly",
-      "sanskrit": "Half-Butterfly",
-      "duration": 4,
-      "category": "hip_opener",
-      "description": "Asymmetrical pose targeting one side at a time for focused hip opening.",
-      "instructions": "Sit with one leg straight, other foot drawn into inner thigh. Fold forward over straight leg.",
-      "benefits": [
-        "Focused hip opening",
-        "Hamstring stretch",
-        "Spinal mobility"
-      ],
-      "image": "assets/images/fig3-7.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Anahatasana",
       "sanskrit": "Anahatasana",
       "duration": 4,
@@ -52,8 +36,8 @@
         "Take care with neck positioning to avoid strain",
         "Watch for tingling in hands - adjust arm position if needed"
       ],
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Caterpillar",
@@ -68,8 +52,8 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Sphinx and Seal",
@@ -84,13 +68,13 @@
         "Opens chest"
       ],
       "image": "assets/images/fig3-37.png",
-      "order": 5,
-      "startTime": 16
+      "order": 4,
+      "startTime": 12
     },
     {
       "name": "Snail",
       "sanskrit": "Snail",
-      "duration": 3,
+      "duration": 4,
       "category": "forward_fold",
       "description": "Inverted forward fold providing deep spinal flexion.",
       "instructions": "Lie on back, lift legs overhead and support with hands on lower back.",
@@ -100,6 +84,22 @@
         "Introspective pose"
       ],
       "image": "assets/images/fig3-35.png",
+      "order": 5,
+      "startTime": 16
+    },
+    {
+      "name": "Butterfly",
+      "sanskrit": "Butterfly",
+      "duration": 3,
+      "category": "hip_opener",
+      "description": "Gentle hip opener that opens the groin and inner thighs.",
+      "instructions": "Sit with soles of feet together, hold feet and gently fold forward from hips.",
+      "benefits": [
+        "Opens hips and inner thighs",
+        "Stimulates abdominal organs",
+        "Calms the mind"
+      ],
+      "image": "assets/images/fig3-40.png",
       "order": 6,
       "startTime": 20
     },
