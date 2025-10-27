@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-26",
+  "date": "2025-10-27",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,26 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Anahatasana",
-      "sanskrit": "Anahatasana",
-      "duration": 4,
-      "category": "forward_fold",
-      "description": "Heart melting pose targeting middle and upper back extension.",
-      "instructions": "From hands and knees, walk hands forward allowing chest to drop toward floor. Keep hips over knees.",
-      "benefits": [
-        "Opens middle and upper back",
-        "Heart opening qualities",
-        "Shoulder mobility"
-      ],
-      "image": "assets/images/fig3-1.png",
-      "contraindications": [
-        "Take care with neck positioning to avoid strain",
-        "Watch for tingling in hands - adjust arm position if needed"
-      ],
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Caterpillar",
       "sanskrit": "Caterpillar",
       "duration": 5,
@@ -52,8 +32,8 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Sphinx and Seal",
@@ -68,8 +48,8 @@
         "Opens chest"
       ],
       "image": "assets/images/fig3-37.png",
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Snail",
@@ -84,13 +64,13 @@
         "Introspective pose"
       ],
       "image": "assets/images/fig3-35.png",
-      "order": 5,
-      "startTime": 16
+      "order": 4,
+      "startTime": 12
     },
     {
       "name": "Butterfly",
       "sanskrit": "Butterfly",
-      "duration": 3,
+      "duration": 4,
       "category": "hip_opener",
       "description": "Gentle hip opener that opens the groin and inner thighs.",
       "instructions": "Sit with soles of feet together, hold feet and gently fold forward from hips.",
@@ -100,6 +80,22 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-40.png",
+      "order": 5,
+      "startTime": 16
+    },
+    {
+      "name": "Reclining Twists",
+      "sanskrit": "Reclining Twists",
+      "duration": 3,
+      "category": "twist",
+      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
+      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      "benefits": [
+        "Wrings out spine",
+        "Aids digestion",
+        "Releases lower back tension"
+      ],
+      "image": "assets/images/fig3-31.png",
       "order": 6,
       "startTime": 20
     },
