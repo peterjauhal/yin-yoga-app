@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-28",
+  "date": "2025-10-29",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Sphinx and Seal",
-      "sanskrit": "Sphinx and Seal",
-      "duration": 4,
-      "category": "backbend",
-      "description": "Progressive backbends working from gentle to deeper spinal extension.",
-      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
-      "benefits": [
-        "Spinal extension",
-        "Strengthens back muscles",
-        "Opens chest"
-      ],
-      "image": "assets/images/fig3-37.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Snail",
       "sanskrit": "Snail",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Introspective pose"
       ],
       "image": "assets/images/fig3-35.png",
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Butterfly",
@@ -64,8 +48,8 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-40.png",
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Reclining Twists",
@@ -80,8 +64,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Dangling",
@@ -96,6 +80,22 @@
         "Calms nervous system"
       ],
       "image": "assets/images/fig3-17.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Sphinx and Seal",
+      "sanskrit": "Sphinx and Seal",
+      "duration": 4,
+      "category": "backbend",
+      "description": "Progressive backbends working from gentle to deeper spinal extension.",
+      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      "benefits": [
+        "Spinal extension",
+        "Strengthens back muscles",
+        "Opens chest"
+      ],
+      "image": "assets/images/fig3-37.png",
       "order": 6,
       "startTime": 19
     },
