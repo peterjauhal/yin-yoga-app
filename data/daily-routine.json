@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-02",
+  "date": "2025-11-03",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,18 +20,22 @@
       "startTime": 0
     },
     {
-      "name": "Sphinx and Seal",
-      "sanskrit": "Sphinx and Seal",
-      "duration": 4,
-      "category": "backbend",
-      "description": "Progressive backbends working from gentle to deeper spinal extension.",
-      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      "name": "Dragon",
+      "sanskrit": "Dragon",
+      "duration": 5,
+      "category": "hip_opener",
+      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
+      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
       "benefits": [
-        "Spinal extension",
-        "Strengthens back muscles",
-        "Opens chest"
+        "Stretches hip flexors and quadriceps",
+        "Opens hip sockets",
+        "Improves hip mobility"
       ],
-      "image": "assets/images/fig3-37.png",
+      "image": "assets/images/fig3-20.png",
+      "contraindications": [
+        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
+        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
+      ],
       "order": 2,
       "startTime": 3
     },
@@ -53,27 +57,7 @@
         "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
       ],
       "order": 3,
-      "startTime": 7
-    },
-    {
-      "name": "Dragon",
-      "sanskrit": "Dragon",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
-      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
-      "benefits": [
-        "Stretches hip flexors and quadriceps",
-        "Opens hip sockets",
-        "Improves hip mobility"
-      ],
-      "image": "assets/images/fig3-20.png",
-      "contraindications": [
-        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
-        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
-      ],
-      "order": 4,
-      "startTime": 12
+      "startTime": 8
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -88,8 +72,44 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
+      "order": 4,
+      "startTime": 13
+    },
+    {
+      "name": "Bridge",
+      "sanskrit": "Bridge",
+      "duration": 3,
+      "category": "backbend",
+      "description": "Gentle backbend opening the chest and strengthening the back body.",
+      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
+      "benefits": [
+        "Opens chest and heart",
+        "Strengthens glutes and back",
+        "Energizing pose"
+      ],
+      "image": "assets/images/fig3-5.png",
       "order": 5,
       "startTime": 17
+    },
+    {
+      "name": "Dragon",
+      "sanskrit": "Dragon",
+      "duration": 3,
+      "category": "hip_opener",
+      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
+      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
+      "benefits": [
+        "Stretches hip flexors and quadriceps",
+        "Opens hip sockets",
+        "Improves hip mobility"
+      ],
+      "image": "assets/images/fig3-20.png",
+      "contraindications": [
+        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
+        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
+      ],
+      "order": 6,
+      "startTime": 20
     },
     {
       "name": "Savasana",
@@ -104,11 +124,11 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-60.png",
-      "order": 6,
-      "startTime": 21
+      "order": 7,
+      "startTime": 23
     }
   ],
   "theme": "Releasing Tension",
-  "actualDuration": 26,
-  "poseCount": 6
+  "actualDuration": 28,
+  "poseCount": 7
 }
