@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-04",
+  "date": "2025-11-05",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,26 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Dragon",
-      "sanskrit": "Dragon",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
-      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
-      "benefits": [
-        "Stretches hip flexors and quadriceps",
-        "Opens hip sockets",
-        "Improves hip mobility"
-      ],
-      "image": "assets/images/fig3-20.png",
-      "contraindications": [
-        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
-        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
-      ],
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Cat Pulling Its Tail",
       "sanskrit": "Cat Pulling Its Tail",
       "duration": 4,
@@ -52,8 +32,8 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 3,
-      "startTime": 8
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Bridge",
@@ -68,8 +48,8 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Dragon",
@@ -88,13 +68,13 @@
         "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
         "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
       ],
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 10
     },
     {
       "name": "Reclining Twists",
       "sanskrit": "Reclining Twists",
-      "duration": 3,
+      "duration": 4,
       "category": "twist",
       "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
       "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
@@ -104,8 +84,24 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Square",
+      "sanskrit": "Square",
+      "duration": 4,
+      "category": "hip_opener",
+      "description": "Intense hip opener working both hips simultaneously.",
+      "instructions": "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
+      "benefits": [
+        "Deep hip opening",
+        "External rotation",
+        "Prepares for lotus variations"
+      ],
+      "image": "assets/images/fig3-39.png",
       "order": 6,
-      "startTime": 20
+      "startTime": 19
     },
     {
       "name": "Savasana",
