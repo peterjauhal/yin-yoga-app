@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-06",
+  "date": "2025-11-07",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Dragon",
       "sanskrit": "Dragon",
       "duration": 5,
@@ -52,8 +36,8 @@
         "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
         "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
       ],
-      "order": 3,
-      "startTime": 6
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Reclining Twists",
@@ -68,8 +52,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Square",
@@ -84,13 +68,13 @@
         "Prepares for lotus variations"
       ],
       "image": "assets/images/fig3-39.png",
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 12
     },
     {
       "name": "Caterpillar",
       "sanskrit": "Caterpillar",
-      "duration": 3,
+      "duration": 5,
       "category": "forward_fold",
       "description": "Deep forward fold stretching the entire back body and hamstrings.",
       "instructions": "Sit with legs extended, fold forward from hips allowing spine to round naturally.",
@@ -100,8 +84,8 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
-      "order": 6,
-      "startTime": 20
+      "order": 5,
+      "startTime": 17
     },
     {
       "name": "Savasana",
@@ -116,11 +100,11 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-60.png",
-      "order": 7,
-      "startTime": 23
+      "order": 6,
+      "startTime": 22
     }
   ],
   "theme": "Heart Opening Journey",
-  "actualDuration": 28,
-  "poseCount": 7
+  "actualDuration": 27,
+  "poseCount": 6
 }
