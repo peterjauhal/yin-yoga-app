@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-07",
+  "date": "2025-11-08",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,26 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Dragon",
-      "sanskrit": "Dragon",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
-      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
-      "benefits": [
-        "Stretches hip flexors and quadriceps",
-        "Opens hip sockets",
-        "Improves hip mobility"
-      ],
-      "image": "assets/images/fig3-20.png",
-      "contraindications": [
-        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
-        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
-      ],
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Reclining Twists",
       "sanskrit": "Reclining Twists",
       "duration": 4,
@@ -52,8 +32,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 3,
-      "startTime": 8
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Square",
@@ -68,8 +48,8 @@
         "Prepares for lotus variations"
       ],
       "image": "assets/images/fig3-39.png",
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Caterpillar",
@@ -84,6 +64,22 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
+      "order": 4,
+      "startTime": 12
+    },
+    {
+      "name": "Reclining Twists",
+      "sanskrit": "Reclining Twists",
+      "duration": 4,
+      "category": "twist",
+      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
+      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      "benefits": [
+        "Wrings out spine",
+        "Aids digestion",
+        "Releases lower back tension"
+      ],
+      "image": "assets/images/fig3-31.png",
       "order": 5,
       "startTime": 17
     },
@@ -101,10 +97,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 6,
-      "startTime": 22
+      "startTime": 21
     }
   ],
   "theme": "Heart Opening Journey",
-  "actualDuration": 27,
+  "actualDuration": 26,
   "poseCount": 6
 }
