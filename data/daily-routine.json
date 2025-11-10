@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-09",
+  "date": "2025-11-10",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Square",
-      "sanskrit": "Square",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Intense hip opener working both hips simultaneously.",
-      "instructions": "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
-      "benefits": [
-        "Deep hip opening",
-        "External rotation",
-        "Prepares for lotus variations"
-      ],
-      "image": "assets/images/fig3-39.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Caterpillar",
       "sanskrit": "Caterpillar",
       "duration": 5,
@@ -48,8 +32,8 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
-      "order": 3,
-      "startTime": 8
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Reclining Twists",
@@ -64,8 +48,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 4,
-      "startTime": 13
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Snail",
@@ -80,8 +64,40 @@
         "Introspective pose"
       ],
       "image": "assets/images/fig3-35.png",
+      "order": 4,
+      "startTime": 12
+    },
+    {
+      "name": "Child's Pose",
+      "sanskrit": "Child's Pose",
+      "duration": 4,
+      "category": "forward_fold",
+      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
+      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
+      "benefits": [
+        "Calms nervous system",
+        "Stretches back and shoulders",
+        "Promotes introspection"
+      ],
+      "image": "assets/images/fig3-14.png",
       "order": 5,
-      "startTime": 17
+      "startTime": 16
+    },
+    {
+      "name": "Snail",
+      "sanskrit": "Snail",
+      "duration": 3,
+      "category": "forward_fold",
+      "description": "Inverted forward fold providing deep spinal flexion.",
+      "instructions": "Lie on back, lift legs overhead and support with hands on lower back.",
+      "benefits": [
+        "Deep spinal flexion",
+        "Neck and shoulder stretch",
+        "Introspective pose"
+      ],
+      "image": "assets/images/fig3-35.png",
+      "order": 6,
+      "startTime": 20
     },
     {
       "name": "Savasana",
@@ -96,11 +112,11 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-60.png",
-      "order": 6,
-      "startTime": 21
+      "order": 7,
+      "startTime": 23
     }
   ],
   "theme": "Heart Opening Journey",
-  "actualDuration": 26,
-  "poseCount": 6
+  "actualDuration": 28,
+  "poseCount": 7
 }
