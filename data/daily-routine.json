@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-13",
+  "date": "2025-11-14",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Child's Pose",
-      "sanskrit": "Child's Pose",
-      "duration": 4,
-      "category": "forward_fold",
-      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
-      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
-      "benefits": [
-        "Calms nervous system",
-        "Stretches back and shoulders",
-        "Promotes introspection"
-      ],
-      "image": "assets/images/fig3-14.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Snail",
       "sanskrit": "Snail",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Introspective pose"
       ],
       "image": "assets/images/fig3-35.png",
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Anahatasana",
@@ -68,8 +52,8 @@
         "Take care with neck positioning to avoid strain",
         "Watch for tingling in hands - adjust arm position if needed"
       ],
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Square",
@@ -84,13 +68,13 @@
         "Prepares for lotus variations"
       ],
       "image": "assets/images/fig3-39.png",
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Frog",
       "sanskrit": "Frog",
-      "duration": 3,
+      "duration": 5,
       "category": "hip_opener",
       "description": "Deep hip opener targeting the inner groin and hip sockets.",
       "instructions": "Start in Child's Pose and slide hands forward, separate knees while remaining sitting on heels.",
@@ -104,8 +88,8 @@
         "If you have back issues, compression may be too much",
         "Use knee padding if knees complain"
       ],
-      "order": 6,
-      "startTime": 20
+      "order": 5,
+      "startTime": 16
     },
     {
       "name": "Savasana",
@@ -120,11 +104,11 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-60.png",
-      "order": 7,
-      "startTime": 23
+      "order": 6,
+      "startTime": 21
     }
   ],
   "theme": "Grounding Practice",
-  "actualDuration": 28,
-  "poseCount": 7
+  "actualDuration": 26,
+  "poseCount": 6
 }
