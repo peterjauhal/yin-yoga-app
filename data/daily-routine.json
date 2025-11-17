@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-16",
+  "date": "2025-11-17",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Square",
-      "sanskrit": "Square",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Intense hip opener working both hips simultaneously.",
-      "instructions": "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
-      "benefits": [
-        "Deep hip opening",
-        "External rotation",
-        "Prepares for lotus variations"
-      ],
-      "image": "assets/images/fig3-39.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Frog",
       "sanskrit": "Frog",
       "duration": 5,
@@ -52,8 +36,8 @@
         "If you have back issues, compression may be too much",
         "Use knee padding if knees complain"
       ],
-      "order": 3,
-      "startTime": 8
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Dragon",
@@ -72,8 +56,8 @@
         "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
         "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
       ],
-      "order": 4,
-      "startTime": 13
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Dangling",
@@ -88,8 +72,24 @@
         "Calms nervous system"
       ],
       "image": "assets/images/fig3-17.png",
+      "order": 4,
+      "startTime": 13
+    },
+    {
+      "name": "Sphinx and Seal",
+      "sanskrit": "Sphinx and Seal",
+      "duration": 4,
+      "category": "backbend",
+      "description": "Progressive backbends working from gentle to deeper spinal extension.",
+      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      "benefits": [
+        "Spinal extension",
+        "Strengthens back muscles",
+        "Opens chest"
+      ],
+      "image": "assets/images/fig3-37.png",
       "order": 5,
-      "startTime": 18
+      "startTime": 17
     },
     {
       "name": "Savasana",
@@ -105,10 +105,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 6,
-      "startTime": 22
+      "startTime": 21
     }
   ],
   "theme": "Grounding Practice",
-  "actualDuration": 27,
+  "actualDuration": 26,
   "poseCount": 6
 }
