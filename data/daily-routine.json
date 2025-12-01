@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-30",
+  "date": "2025-12-01",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,26 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Anahatasana",
-      "sanskrit": "Anahatasana",
-      "duration": 4,
-      "category": "forward_fold",
-      "description": "Heart melting pose targeting middle and upper back extension.",
-      "instructions": "From hands and knees, walk hands forward allowing chest to drop toward floor. Keep hips over knees.",
-      "benefits": [
-        "Opens middle and upper back",
-        "Heart opening qualities",
-        "Shoulder mobility"
-      ],
-      "image": "assets/images/fig3-1.png",
-      "contraindications": [
-        "Take care with neck positioning to avoid strain",
-        "Watch for tingling in hands - adjust arm position if needed"
-      ],
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Snail",
       "sanskrit": "Snail",
       "duration": 4,
@@ -52,8 +32,8 @@
         "Introspective pose"
       ],
       "image": "assets/images/fig3-35.png",
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Reclining Twists",
@@ -68,8 +48,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Frog",
@@ -88,13 +68,13 @@
         "If you have back issues, compression may be too much",
         "Use knee padding if knees complain"
       ],
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Caterpillar",
       "sanskrit": "Caterpillar",
-      "duration": 3,
+      "duration": 5,
       "category": "forward_fold",
       "description": "Deep forward fold stretching the entire back body and hamstrings.",
       "instructions": "Sit with legs extended, fold forward from hips allowing spine to round naturally.",
@@ -104,8 +84,8 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
-      "order": 6,
-      "startTime": 20
+      "order": 5,
+      "startTime": 16
     },
     {
       "name": "Savasana",
@@ -120,11 +100,11 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-60.png",
-      "order": 7,
-      "startTime": 23
+      "order": 6,
+      "startTime": 21
     }
   ],
   "theme": "Gentle Flexibility",
-  "actualDuration": 28,
-  "poseCount": 7
+  "actualDuration": 26,
+  "poseCount": 6
 }
