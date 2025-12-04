@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-03",
+  "date": "2025-12-04",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,26 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Frog",
-      "sanskrit": "Frog",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting the inner groin and hip sockets.",
-      "instructions": "Start in Child's Pose and slide hands forward, separate knees while remaining sitting on heels.",
-      "benefits": [
-        "Opens inner groin and adductors",
-        "Increases hip flexibility",
-        "May provide spinal extension"
-      ],
-      "image": "assets/images/fig3-23.png",
-      "contraindications": [
-        "If you have back issues, compression may be too much",
-        "Use knee padding if knees complain"
-      ],
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Caterpillar",
       "sanskrit": "Caterpillar",
       "duration": 5,
@@ -52,8 +32,8 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
-      "order": 3,
-      "startTime": 8
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Dragon",
@@ -72,8 +52,8 @@
         "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
         "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
       ],
-      "order": 4,
-      "startTime": 13
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Half-Butterfly",
@@ -88,8 +68,24 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
+      "order": 4,
+      "startTime": 13
+    },
+    {
+      "name": "Child's Pose",
+      "sanskrit": "Child's Pose",
+      "duration": 4,
+      "category": "forward_fold",
+      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
+      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
+      "benefits": [
+        "Calms nervous system",
+        "Stretches back and shoulders",
+        "Promotes introspection"
+      ],
+      "image": "assets/images/fig3-14.png",
       "order": 5,
-      "startTime": 18
+      "startTime": 17
     },
     {
       "name": "Savasana",
@@ -105,10 +101,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 6,
-      "startTime": 22
+      "startTime": 21
     }
   ],
   "theme": "Mindful Presence",
-  "actualDuration": 27,
+  "actualDuration": 26,
   "poseCount": 6
 }
