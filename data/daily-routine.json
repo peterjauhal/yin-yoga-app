@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-08",
+  "date": "2025-12-09",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,18 +20,22 @@
       "startTime": 0
     },
     {
-      "name": "Half-Butterfly",
-      "sanskrit": "Half-Butterfly",
-      "duration": 4,
+      "name": "Dragon",
+      "sanskrit": "Dragon",
+      "duration": 5,
       "category": "hip_opener",
-      "description": "Asymmetrical pose targeting one side at a time for focused hip opening.",
-      "instructions": "Sit with one leg straight, other foot drawn into inner thigh. Fold forward over straight leg.",
+      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
+      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
       "benefits": [
-        "Focused hip opening",
-        "Hamstring stretch",
-        "Spinal mobility"
+        "Stretches hip flexors and quadriceps",
+        "Opens hip sockets",
+        "Improves hip mobility"
       ],
-      "image": "assets/images/fig3-7.png",
+      "image": "assets/images/fig3-20.png",
+      "contraindications": [
+        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
+        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
+      ],
       "order": 2,
       "startTime": 3
     },
@@ -53,27 +57,7 @@
         "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
       ],
       "order": 3,
-      "startTime": 7
-    },
-    {
-      "name": "Dragon",
-      "sanskrit": "Dragon",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
-      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
-      "benefits": [
-        "Stretches hip flexors and quadriceps",
-        "Opens hip sockets",
-        "Improves hip mobility"
-      ],
-      "image": "assets/images/fig3-20.png",
-      "contraindications": [
-        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
-        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
-      ],
-      "order": 4,
-      "startTime": 12
+      "startTime": 8
     },
     {
       "name": "Dangling",
@@ -88,6 +72,22 @@
         "Calms nervous system"
       ],
       "image": "assets/images/fig3-17.png",
+      "order": 4,
+      "startTime": 13
+    },
+    {
+      "name": "Sphinx and Seal",
+      "sanskrit": "Sphinx and Seal",
+      "duration": 4,
+      "category": "backbend",
+      "description": "Progressive backbends working from gentle to deeper spinal extension.",
+      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      "benefits": [
+        "Spinal extension",
+        "Strengthens back muscles",
+        "Opens chest"
+      ],
+      "image": "assets/images/fig3-37.png",
       "order": 5,
       "startTime": 17
     },
@@ -108,7 +108,7 @@
       "startTime": 21
     }
   ],
-  "theme": "Mindful Presence",
+  "theme": "Opening to Peace",
   "actualDuration": 26,
   "poseCount": 6
 }
