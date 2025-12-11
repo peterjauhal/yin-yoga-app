@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-10",
+  "date": "2025-12-11",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,26 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Dragon",
-      "sanskrit": "Dragon",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
-      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
-      "benefits": [
-        "Stretches hip flexors and quadriceps",
-        "Opens hip sockets",
-        "Improves hip mobility"
-      ],
-      "image": "assets/images/fig3-20.png",
-      "contraindications": [
-        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
-        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
-      ],
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Dangling",
       "sanskrit": "Dangling",
       "duration": 4,
@@ -52,8 +32,24 @@
         "Calms nervous system"
       ],
       "image": "assets/images/fig3-17.png",
+      "order": 2,
+      "startTime": 3
+    },
+    {
+      "name": "Sphinx and Seal",
+      "sanskrit": "Sphinx and Seal",
+      "duration": 4,
+      "category": "backbend",
+      "description": "Progressive backbends working from gentle to deeper spinal extension.",
+      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      "benefits": [
+        "Spinal extension",
+        "Strengthens back muscles",
+        "Opens chest"
+      ],
+      "image": "assets/images/fig3-37.png",
       "order": 3,
-      "startTime": 8
+      "startTime": 7
     },
     {
       "name": "Sphinx and Seal",
@@ -69,23 +65,23 @@
       ],
       "image": "assets/images/fig3-37.png",
       "order": 4,
-      "startTime": 12
+      "startTime": 11
     },
     {
-      "name": "Sphinx and Seal",
-      "sanskrit": "Sphinx and Seal",
-      "duration": 4,
+      "name": "Bridge",
+      "sanskrit": "Bridge",
+      "duration": 3,
       "category": "backbend",
-      "description": "Progressive backbends working from gentle to deeper spinal extension.",
-      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      "description": "Gentle backbend opening the chest and strengthening the back body.",
+      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
       "benefits": [
-        "Spinal extension",
-        "Strengthens back muscles",
-        "Opens chest"
+        "Opens chest and heart",
+        "Strengthens glutes and back",
+        "Energizing pose"
       ],
-      "image": "assets/images/fig3-37.png",
+      "image": "assets/images/fig3-5.png",
       "order": 5,
-      "startTime": 16
+      "startTime": 15
     },
     {
       "name": "Bridge",
@@ -101,7 +97,7 @@
       ],
       "image": "assets/images/fig3-5.png",
       "order": 6,
-      "startTime": 20
+      "startTime": 18
     },
     {
       "name": "Savasana",
@@ -117,10 +113,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 7,
-      "startTime": 23
+      "startTime": 21
     }
   ],
   "theme": "Opening to Peace",
-  "actualDuration": 28,
+  "actualDuration": 26,
   "poseCount": 7
 }
