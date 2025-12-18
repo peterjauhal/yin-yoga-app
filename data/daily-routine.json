@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-17",
+  "date": "2025-12-18",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Caterpillar",
-      "sanskrit": "Caterpillar",
-      "duration": 5,
-      "category": "forward_fold",
-      "description": "Deep forward fold stretching the entire back body and hamstrings.",
-      "instructions": "Sit with legs extended, fold forward from hips allowing spine to round naturally.",
-      "benefits": [
-        "Stretches spine and hamstrings",
-        "Calms the mind",
-        "Improves digestion"
-      ],
-      "image": "assets/images/fig3-12.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Dragon",
       "sanskrit": "Dragon",
       "duration": 5,
@@ -52,6 +36,22 @@
         "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
         "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
       ],
+      "order": 2,
+      "startTime": 3
+    },
+    {
+      "name": "Bridge",
+      "sanskrit": "Bridge",
+      "duration": 3,
+      "category": "backbend",
+      "description": "Gentle backbend opening the chest and strengthening the back body.",
+      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
+      "benefits": [
+        "Opens chest and heart",
+        "Strengthens glutes and back",
+        "Energizing pose"
+      ],
+      "image": "assets/images/fig3-5.png",
       "order": 3,
       "startTime": 8
     },
@@ -69,23 +69,7 @@
       ],
       "image": "assets/images/fig3-5.png",
       "order": 4,
-      "startTime": 13
-    },
-    {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
-      "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
-      ],
-      "image": "assets/images/fig3-5.png",
-      "order": 5,
-      "startTime": 16
+      "startTime": 11
     },
     {
       "name": "Butterfly",
@@ -100,8 +84,24 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-40.png",
+      "order": 5,
+      "startTime": 14
+    },
+    {
+      "name": "Half-Butterfly",
+      "sanskrit": "Half-Butterfly",
+      "duration": 4,
+      "category": "hip_opener",
+      "description": "Asymmetrical pose targeting one side at a time for focused hip opening.",
+      "instructions": "Sit with one leg straight, other foot drawn into inner thigh. Fold forward over straight leg.",
+      "benefits": [
+        "Focused hip opening",
+        "Hamstring stretch",
+        "Spinal mobility"
+      ],
+      "image": "assets/images/fig3-7.png",
       "order": 6,
-      "startTime": 19
+      "startTime": 18
     },
     {
       "name": "Savasana",
@@ -117,10 +117,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 7,
-      "startTime": 23
+      "startTime": 22
     }
   ],
   "theme": "Releasing Tension",
-  "actualDuration": 28,
+  "actualDuration": 27,
   "poseCount": 7
 }
