@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-24",
+  "date": "2025-12-25",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -36,22 +36,6 @@
       "startTime": 3
     },
     {
-      "name": "Butterfly",
-      "sanskrit": "Butterfly",
-      "duration": 4,
-      "category": "hip_opener",
-      "description": "Gentle hip opener that opens the groin and inner thighs.",
-      "instructions": "Sit with soles of feet together, hold feet and gently fold forward from hips.",
-      "benefits": [
-        "Opens hips and inner thighs",
-        "Stimulates abdominal organs",
-        "Calms the mind"
-      ],
-      "image": "assets/images/fig3-40.png",
-      "order": 3,
-      "startTime": 7
-    },
-    {
       "name": "Reclining Twists",
       "sanskrit": "Reclining Twists",
       "duration": 4,
@@ -64,8 +48,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -80,8 +64,8 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Snail",
@@ -96,6 +80,22 @@
         "Introspective pose"
       ],
       "image": "assets/images/fig3-35.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Half-Butterfly",
+      "sanskrit": "Half-Butterfly",
+      "duration": 4,
+      "category": "hip_opener",
+      "description": "Asymmetrical pose targeting one side at a time for focused hip opening.",
+      "instructions": "Sit with one leg straight, other foot drawn into inner thigh. Fold forward over straight leg.",
+      "benefits": [
+        "Focused hip opening",
+        "Hamstring stretch",
+        "Spinal mobility"
+      ],
+      "image": "assets/images/fig3-7.png",
       "order": 6,
       "startTime": 19
     },
