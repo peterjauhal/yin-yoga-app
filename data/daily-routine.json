@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-25",
+  "date": "2025-12-26",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Butterfly",
-      "sanskrit": "Butterfly",
-      "duration": 4,
-      "category": "hip_opener",
-      "description": "Gentle hip opener that opens the groin and inner thighs.",
-      "instructions": "Sit with soles of feet together, hold feet and gently fold forward from hips.",
-      "benefits": [
-        "Opens hips and inner thighs",
-        "Stimulates abdominal organs",
-        "Calms the mind"
-      ],
-      "image": "assets/images/fig3-40.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Reclining Twists",
       "sanskrit": "Reclining Twists",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -64,8 +48,8 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Snail",
@@ -80,8 +64,8 @@
         "Introspective pose"
       ],
       "image": "assets/images/fig3-35.png",
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Half-Butterfly",
@@ -96,6 +80,22 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Snail",
+      "sanskrit": "Snail",
+      "duration": 4,
+      "category": "forward_fold",
+      "description": "Inverted forward fold providing deep spinal flexion.",
+      "instructions": "Lie on back, lift legs overhead and support with hands on lower back.",
+      "benefits": [
+        "Deep spinal flexion",
+        "Neck and shoulder stretch",
+        "Introspective pose"
+      ],
+      "image": "assets/images/fig3-35.png",
       "order": 6,
       "startTime": 19
     },
