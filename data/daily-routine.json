@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-04",
+  "date": "2026-01-05",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -52,22 +52,6 @@
       "startTime": 7
     },
     {
-      "name": "Cat Pulling Its Tail",
-      "sanskrit": "Cat Pulling Its Tail",
-      "duration": 4,
-      "category": "twist",
-      "description": "Asymmetrical twist combining hip opening with spinal rotation.",
-      "instructions": "Lie on side, bend top knee and reach back to hold foot, creating twist through spine.",
-      "benefits": [
-        "Spinal rotation",
-        "Hip flexor stretch",
-        "Side body opening"
-      ],
-      "image": "assets/images/fig3-11.png",
-      "order": 4,
-      "startTime": 11
-    },
-    {
       "name": "Bridge",
       "sanskrit": "Bridge",
       "duration": 3,
@@ -80,8 +64,8 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Butterfly",
@@ -96,6 +80,22 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-40.png",
+      "order": 5,
+      "startTime": 14
+    },
+    {
+      "name": "Cat Pulling Its Tail",
+      "sanskrit": "Cat Pulling Its Tail",
+      "duration": 4,
+      "category": "twist",
+      "description": "Asymmetrical twist combining hip opening with spinal rotation.",
+      "instructions": "Lie on side, bend top knee and reach back to hold foot, creating twist through spine.",
+      "benefits": [
+        "Spinal rotation",
+        "Hip flexor stretch",
+        "Side body opening"
+      ],
+      "image": "assets/images/fig3-11.png",
       "order": 6,
       "startTime": 18
     },
