@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-05",
+  "date": "2026-01-06",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -36,22 +36,6 @@
       "startTime": 3
     },
     {
-      "name": "Cat Pulling Its Tail",
-      "sanskrit": "Cat Pulling Its Tail",
-      "duration": 4,
-      "category": "twist",
-      "description": "Asymmetrical twist combining hip opening with spinal rotation.",
-      "instructions": "Lie on side, bend top knee and reach back to hold foot, creating twist through spine.",
-      "benefits": [
-        "Spinal rotation",
-        "Hip flexor stretch",
-        "Side body opening"
-      ],
-      "image": "assets/images/fig3-11.png",
-      "order": 3,
-      "startTime": 7
-    },
-    {
       "name": "Bridge",
       "sanskrit": "Bridge",
       "duration": 3,
@@ -64,8 +48,8 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Butterfly",
@@ -80,8 +64,8 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-40.png",
-      "order": 5,
-      "startTime": 14
+      "order": 4,
+      "startTime": 10
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -96,6 +80,22 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
+      "order": 5,
+      "startTime": 14
+    },
+    {
+      "name": "Butterfly",
+      "sanskrit": "Butterfly",
+      "duration": 4,
+      "category": "hip_opener",
+      "description": "Gentle hip opener that opens the groin and inner thighs.",
+      "instructions": "Sit with soles of feet together, hold feet and gently fold forward from hips.",
+      "benefits": [
+        "Opens hips and inner thighs",
+        "Stimulates abdominal organs",
+        "Calms the mind"
+      ],
+      "image": "assets/images/fig3-40.png",
       "order": 6,
       "startTime": 18
     },
