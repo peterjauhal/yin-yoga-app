@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-16",
+  "date": "2026-01-17",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,26 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Dragon",
-      "sanskrit": "Dragon",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
-      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
-      "benefits": [
-        "Stretches hip flexors and quadriceps",
-        "Opens hip sockets",
-        "Improves hip mobility"
-      ],
-      "image": "assets/images/fig3-20.png",
-      "contraindications": [
-        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
-        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
-      ],
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Butterfly",
       "sanskrit": "Butterfly",
       "duration": 4,
@@ -52,8 +32,8 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-40.png",
-      "order": 3,
-      "startTime": 8
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -68,8 +48,8 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Child's Pose",
@@ -84,8 +64,8 @@
         "Promotes introspection"
       ],
       "image": "assets/images/fig3-14.png",
-      "order": 5,
-      "startTime": 16
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Bridge",
@@ -100,8 +80,24 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Child's Pose",
+      "sanskrit": "Child's Pose",
+      "duration": 4,
+      "category": "forward_fold",
+      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
+      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
+      "benefits": [
+        "Calms nervous system",
+        "Stretches back and shoulders",
+        "Promotes introspection"
+      ],
+      "image": "assets/images/fig3-14.png",
       "order": 6,
-      "startTime": 20
+      "startTime": 18
     },
     {
       "name": "Savasana",
@@ -117,10 +113,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 7,
-      "startTime": 23
+      "startTime": 22
     }
   ],
   "theme": "Heart Opening Journey",
-  "actualDuration": 28,
+  "actualDuration": 27,
   "poseCount": 7
 }
