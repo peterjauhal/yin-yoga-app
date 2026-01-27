@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-26",
+  "date": "2026-01-27",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Reclining Twists",
-      "sanskrit": "Reclining Twists",
-      "duration": 4,
-      "category": "twist",
-      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
-      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
-      "benefits": [
-        "Wrings out spine",
-        "Aids digestion",
-        "Releases lower back tension"
-      ],
-      "image": "assets/images/fig3-31.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Frog",
       "sanskrit": "Frog",
       "duration": 5,
@@ -52,8 +36,8 @@
         "If you have back issues, compression may be too much",
         "Use knee padding if knees complain"
       ],
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Bridge",
@@ -68,8 +52,24 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
+      "order": 3,
+      "startTime": 8
+    },
+    {
+      "name": "Sphinx and Seal",
+      "sanskrit": "Sphinx and Seal",
+      "duration": 4,
+      "category": "backbend",
+      "description": "Progressive backbends working from gentle to deeper spinal extension.",
+      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      "benefits": [
+        "Spinal extension",
+        "Strengthens back muscles",
+        "Opens chest"
+      ],
+      "image": "assets/images/fig3-37.png",
       "order": 4,
-      "startTime": 12
+      "startTime": 11
     },
     {
       "name": "Sphinx and Seal",
@@ -88,18 +88,22 @@
       "startTime": 15
     },
     {
-      "name": "Sphinx and Seal",
-      "sanskrit": "Sphinx and Seal",
+      "name": "Anahatasana",
+      "sanskrit": "Anahatasana",
       "duration": 4,
-      "category": "backbend",
-      "description": "Progressive backbends working from gentle to deeper spinal extension.",
-      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      "category": "forward_fold",
+      "description": "Heart melting pose targeting middle and upper back extension.",
+      "instructions": "From hands and knees, walk hands forward allowing chest to drop toward floor. Keep hips over knees.",
       "benefits": [
-        "Spinal extension",
-        "Strengthens back muscles",
-        "Opens chest"
+        "Opens middle and upper back",
+        "Heart opening qualities",
+        "Shoulder mobility"
       ],
-      "image": "assets/images/fig3-37.png",
+      "image": "assets/images/fig3-1.png",
+      "contraindications": [
+        "Take care with neck positioning to avoid strain",
+        "Watch for tingling in hands - adjust arm position if needed"
+      ],
       "order": 6,
       "startTime": 19
     },
