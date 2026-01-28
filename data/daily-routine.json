@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-27",
+  "date": "2026-01-28",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,26 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Frog",
-      "sanskrit": "Frog",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting the inner groin and hip sockets.",
-      "instructions": "Start in Child's Pose and slide hands forward, separate knees while remaining sitting on heels.",
-      "benefits": [
-        "Opens inner groin and adductors",
-        "Increases hip flexibility",
-        "May provide spinal extension"
-      ],
-      "image": "assets/images/fig3-23.png",
-      "contraindications": [
-        "If you have back issues, compression may be too much",
-        "Use knee padding if knees complain"
-      ],
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Bridge",
       "sanskrit": "Bridge",
       "duration": 3,
@@ -52,8 +32,24 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
+      "order": 2,
+      "startTime": 3
+    },
+    {
+      "name": "Sphinx and Seal",
+      "sanskrit": "Sphinx and Seal",
+      "duration": 4,
+      "category": "backbend",
+      "description": "Progressive backbends working from gentle to deeper spinal extension.",
+      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      "benefits": [
+        "Spinal extension",
+        "Strengthens back muscles",
+        "Opens chest"
+      ],
+      "image": "assets/images/fig3-37.png",
       "order": 3,
-      "startTime": 8
+      "startTime": 6
     },
     {
       "name": "Sphinx and Seal",
@@ -69,23 +65,7 @@
       ],
       "image": "assets/images/fig3-37.png",
       "order": 4,
-      "startTime": 11
-    },
-    {
-      "name": "Sphinx and Seal",
-      "sanskrit": "Sphinx and Seal",
-      "duration": 4,
-      "category": "backbend",
-      "description": "Progressive backbends working from gentle to deeper spinal extension.",
-      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
-      "benefits": [
-        "Spinal extension",
-        "Strengthens back muscles",
-        "Opens chest"
-      ],
-      "image": "assets/images/fig3-37.png",
-      "order": 5,
-      "startTime": 15
+      "startTime": 10
     },
     {
       "name": "Anahatasana",
@@ -104,8 +84,24 @@
         "Take care with neck positioning to avoid strain",
         "Watch for tingling in hands - adjust arm position if needed"
       ],
+      "order": 5,
+      "startTime": 14
+    },
+    {
+      "name": "Half-Butterfly",
+      "sanskrit": "Half-Butterfly",
+      "duration": 4,
+      "category": "hip_opener",
+      "description": "Asymmetrical pose targeting one side at a time for focused hip opening.",
+      "instructions": "Sit with one leg straight, other foot drawn into inner thigh. Fold forward over straight leg.",
+      "benefits": [
+        "Focused hip opening",
+        "Hamstring stretch",
+        "Spinal mobility"
+      ],
+      "image": "assets/images/fig3-7.png",
       "order": 6,
-      "startTime": 19
+      "startTime": 18
     },
     {
       "name": "Savasana",
@@ -121,10 +117,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 7,
-      "startTime": 23
+      "startTime": 22
     }
   ],
-  "theme": "Grounding Practice",
-  "actualDuration": 28,
+  "theme": "Inner Strength",
+  "actualDuration": 27,
   "poseCount": 7
 }
