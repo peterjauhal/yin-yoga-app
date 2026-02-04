@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-03",
+  "date": "2026-02-04",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -36,22 +36,6 @@
       "startTime": 3
     },
     {
-      "name": "Half-Butterfly",
-      "sanskrit": "Half-Butterfly",
-      "duration": 4,
-      "category": "hip_opener",
-      "description": "Asymmetrical pose targeting one side at a time for focused hip opening.",
-      "instructions": "Sit with one leg straight, other foot drawn into inner thigh. Fold forward over straight leg.",
-      "benefits": [
-        "Focused hip opening",
-        "Hamstring stretch",
-        "Spinal mobility"
-      ],
-      "image": "assets/images/fig3-7.png",
-      "order": 3,
-      "startTime": 7
-    },
-    {
       "name": "Sphinx and Seal",
       "sanskrit": "Sphinx and Seal",
       "duration": 4,
@@ -64,8 +48,8 @@
         "Opens chest"
       ],
       "image": "assets/images/fig3-37.png",
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Bridge",
@@ -80,8 +64,8 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -96,6 +80,26 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
+      "order": 5,
+      "startTime": 14
+    },
+    {
+      "name": "Frog",
+      "sanskrit": "Frog",
+      "duration": 5,
+      "category": "hip_opener",
+      "description": "Deep hip opener targeting the inner groin and hip sockets.",
+      "instructions": "Start in Child's Pose and slide hands forward, separate knees while remaining sitting on heels.",
+      "benefits": [
+        "Opens inner groin and adductors",
+        "Increases hip flexibility",
+        "May provide spinal extension"
+      ],
+      "image": "assets/images/fig3-23.png",
+      "contraindications": [
+        "If you have back issues, compression may be too much",
+        "Use knee padding if knees complain"
+      ],
       "order": 6,
       "startTime": 18
     },
@@ -113,10 +117,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 7,
-      "startTime": 22
+      "startTime": 23
     }
   ],
-  "theme": "Inner Strength",
-  "actualDuration": 27,
+  "theme": "Gentle Flexibility",
+  "actualDuration": 28,
   "poseCount": 7
 }
