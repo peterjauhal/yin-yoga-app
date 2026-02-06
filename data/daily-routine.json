@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-05",
+  "date": "2026-02-06",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Sphinx and Seal",
-      "sanskrit": "Sphinx and Seal",
-      "duration": 4,
-      "category": "backbend",
-      "description": "Progressive backbends working from gentle to deeper spinal extension.",
-      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
-      "benefits": [
-        "Spinal extension",
-        "Strengthens back muscles",
-        "Opens chest"
-      ],
-      "image": "assets/images/fig3-37.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Bridge",
       "sanskrit": "Bridge",
       "duration": 3,
@@ -48,8 +32,8 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -64,8 +48,8 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 4,
-      "startTime": 10
+      "order": 3,
+      "startTime": 6
     },
     {
       "name": "Frog",
@@ -84,8 +68,8 @@
         "If you have back issues, compression may be too much",
         "Use knee padding if knees complain"
       ],
-      "order": 5,
-      "startTime": 14
+      "order": 4,
+      "startTime": 10
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -100,6 +84,22 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Reclining Twists",
+      "sanskrit": "Reclining Twists",
+      "duration": 4,
+      "category": "twist",
+      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
+      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      "benefits": [
+        "Wrings out spine",
+        "Aids digestion",
+        "Releases lower back tension"
+      ],
+      "image": "assets/images/fig3-31.png",
       "order": 6,
       "startTime": 19
     },
