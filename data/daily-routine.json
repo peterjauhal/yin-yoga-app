@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-08",
+  "date": "2026-02-09",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,26 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Frog",
-      "sanskrit": "Frog",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting the inner groin and hip sockets.",
-      "instructions": "Start in Child's Pose and slide hands forward, separate knees while remaining sitting on heels.",
-      "benefits": [
-        "Opens inner groin and adductors",
-        "Increases hip flexibility",
-        "May provide spinal extension"
-      ],
-      "image": "assets/images/fig3-23.png",
-      "contraindications": [
-        "If you have back issues, compression may be too much",
-        "Use knee padding if knees complain"
-      ],
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Cat Pulling Its Tail",
       "sanskrit": "Cat Pulling Its Tail",
       "duration": 4,
@@ -52,8 +32,8 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 3,
-      "startTime": 8
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Reclining Twists",
@@ -68,8 +48,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Dangling",
@@ -84,13 +64,13 @@
         "Calms nervous system"
       ],
       "image": "assets/images/fig3-17.png",
-      "order": 5,
-      "startTime": 16
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Half-Butterfly",
       "sanskrit": "Half-Butterfly",
-      "duration": 3,
+      "duration": 4,
       "category": "hip_opener",
       "description": "Asymmetrical pose targeting one side at a time for focused hip opening.",
       "instructions": "Sit with one leg straight, other foot drawn into inner thigh. Fold forward over straight leg.",
@@ -100,8 +80,24 @@
         "Spinal mobility"
       ],
       "image": "assets/images/fig3-7.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Butterfly",
+      "sanskrit": "Butterfly",
+      "duration": 4,
+      "category": "hip_opener",
+      "description": "Gentle hip opener that opens the groin and inner thighs.",
+      "instructions": "Sit with soles of feet together, hold feet and gently fold forward from hips.",
+      "benefits": [
+        "Opens hips and inner thighs",
+        "Stimulates abdominal organs",
+        "Calms the mind"
+      ],
+      "image": "assets/images/fig3-40.png",
       "order": 6,
-      "startTime": 20
+      "startTime": 19
     },
     {
       "name": "Savasana",
