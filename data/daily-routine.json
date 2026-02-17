@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-16",
+  "date": "2026-02-17",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Snail",
-      "sanskrit": "Snail",
-      "duration": 4,
-      "category": "forward_fold",
-      "description": "Inverted forward fold providing deep spinal flexion.",
-      "instructions": "Lie on back, lift legs overhead and support with hands on lower back.",
-      "benefits": [
-        "Deep spinal flexion",
-        "Neck and shoulder stretch",
-        "Introspective pose"
-      ],
-      "image": "assets/images/fig3-35.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Dangling",
       "sanskrit": "Dangling",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Calms nervous system"
       ],
       "image": "assets/images/fig3-17.png",
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Caterpillar",
@@ -64,8 +48,8 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Dangling",
@@ -80,13 +64,13 @@
         "Calms nervous system"
       ],
       "image": "assets/images/fig3-17.png",
-      "order": 5,
-      "startTime": 16
+      "order": 4,
+      "startTime": 12
     },
     {
       "name": "Caterpillar",
       "sanskrit": "Caterpillar",
-      "duration": 3,
+      "duration": 5,
       "category": "forward_fold",
       "description": "Deep forward fold stretching the entire back body and hamstrings.",
       "instructions": "Sit with legs extended, fold forward from hips allowing spine to round naturally.",
@@ -96,8 +80,8 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
-      "order": 6,
-      "startTime": 20
+      "order": 5,
+      "startTime": 16
     },
     {
       "name": "Savasana",
@@ -112,11 +96,11 @@
         "Calms the mind"
       ],
       "image": "assets/images/fig3-60.png",
-      "order": 7,
-      "startTime": 23
+      "order": 6,
+      "startTime": 21
     }
   ],
   "theme": "Mindful Presence",
-  "actualDuration": 28,
-  "poseCount": 7
+  "actualDuration": 26,
+  "poseCount": 6
 }
