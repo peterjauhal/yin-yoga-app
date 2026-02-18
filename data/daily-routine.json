@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-17",
+  "date": "2026-02-18",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,38 +20,22 @@
       "startTime": 0
     },
     {
-      "name": "Dangling",
-      "sanskrit": "Dangling",
-      "duration": 4,
+      "name": "Caterpillar",
+      "sanskrit": "Caterpillar",
+      "duration": 5,
       "category": "forward_fold",
-      "description": "Standing forward fold providing spinal traction and hamstring stretch.",
-      "instructions": "Stand with feet apart, bend knees slightly and fold forward. Clasp elbows or rest on knees.",
+      "description": "Deep forward fold stretching the entire back body and hamstrings.",
+      "instructions": "Sit with legs extended, fold forward from hips allowing spine to round naturally.",
       "benefits": [
-        "Spinal traction",
-        "Hamstring stretch",
-        "Calms nervous system"
+        "Stretches spine and hamstrings",
+        "Calms the mind",
+        "Improves digestion"
       ],
-      "image": "assets/images/fig3-17.png",
+      "image": "assets/images/fig3-12.png",
       "order": 2,
       "startTime": 3
     },
     {
-      "name": "Caterpillar",
-      "sanskrit": "Caterpillar",
-      "duration": 5,
-      "category": "forward_fold",
-      "description": "Deep forward fold stretching the entire back body and hamstrings.",
-      "instructions": "Sit with legs extended, fold forward from hips allowing spine to round naturally.",
-      "benefits": [
-        "Stretches spine and hamstrings",
-        "Calms the mind",
-        "Improves digestion"
-      ],
-      "image": "assets/images/fig3-12.png",
-      "order": 3,
-      "startTime": 7
-    },
-    {
       "name": "Dangling",
       "sanskrit": "Dangling",
       "duration": 4,
@@ -64,8 +48,8 @@
         "Calms nervous system"
       ],
       "image": "assets/images/fig3-17.png",
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Caterpillar",
@@ -80,8 +64,24 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
+      "order": 4,
+      "startTime": 12
+    },
+    {
+      "name": "Child's Pose",
+      "sanskrit": "Child's Pose",
+      "duration": 4,
+      "category": "forward_fold",
+      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
+      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
+      "benefits": [
+        "Calms nervous system",
+        "Stretches back and shoulders",
+        "Promotes introspection"
+      ],
+      "image": "assets/images/fig3-14.png",
       "order": 5,
-      "startTime": 16
+      "startTime": 17
     },
     {
       "name": "Savasana",
@@ -100,7 +100,7 @@
       "startTime": 21
     }
   ],
-  "theme": "Mindful Presence",
+  "theme": "Opening to Peace",
   "actualDuration": 26,
   "poseCount": 6
 }
