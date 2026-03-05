@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-04",
+  "date": "2026-03-05",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,18 +20,22 @@
       "startTime": 0
     },
     {
-      "name": "Caterpillar",
-      "sanskrit": "Caterpillar",
-      "duration": 5,
+      "name": "Anahatasana",
+      "sanskrit": "Anahatasana",
+      "duration": 4,
       "category": "forward_fold",
-      "description": "Deep forward fold stretching the entire back body and hamstrings.",
-      "instructions": "Sit with legs extended, fold forward from hips allowing spine to round naturally.",
+      "description": "Heart melting pose targeting middle and upper back extension.",
+      "instructions": "From hands and knees, walk hands forward allowing chest to drop toward floor. Keep hips over knees.",
       "benefits": [
-        "Stretches spine and hamstrings",
-        "Calms the mind",
-        "Improves digestion"
+        "Opens middle and upper back",
+        "Heart opening qualities",
+        "Shoulder mobility"
       ],
-      "image": "assets/images/fig3-12.png",
+      "image": "assets/images/fig3-1.png",
+      "contraindications": [
+        "Take care with neck positioning to avoid strain",
+        "Watch for tingling in hands - adjust arm position if needed"
+      ],
       "order": 2,
       "startTime": 3
     },
@@ -53,27 +57,7 @@
         "Watch for tingling in hands - adjust arm position if needed"
       ],
       "order": 3,
-      "startTime": 8
-    },
-    {
-      "name": "Anahatasana",
-      "sanskrit": "Anahatasana",
-      "duration": 4,
-      "category": "forward_fold",
-      "description": "Heart melting pose targeting middle and upper back extension.",
-      "instructions": "From hands and knees, walk hands forward allowing chest to drop toward floor. Keep hips over knees.",
-      "benefits": [
-        "Opens middle and upper back",
-        "Heart opening qualities",
-        "Shoulder mobility"
-      ],
-      "image": "assets/images/fig3-1.png",
-      "contraindications": [
-        "Take care with neck positioning to avoid strain",
-        "Watch for tingling in hands - adjust arm position if needed"
-      ],
-      "order": 4,
-      "startTime": 12
+      "startTime": 7
     },
     {
       "name": "Reclining Twists",
@@ -88,8 +72,8 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
-      "order": 5,
-      "startTime": 16
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Bridge",
@@ -104,8 +88,28 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Dragon",
+      "sanskrit": "Dragon",
+      "duration": 5,
+      "category": "hip_opener",
+      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
+      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
+      "benefits": [
+        "Stretches hip flexors and quadriceps",
+        "Opens hip sockets",
+        "Improves hip mobility"
+      ],
+      "image": "assets/images/fig3-20.png",
+      "contraindications": [
+        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
+        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
+      ],
       "order": 6,
-      "startTime": 20
+      "startTime": 18
     },
     {
       "name": "Savasana",
