@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,18 +20,18 @@
       "startTime": 0
     },
     {
-      "name": "Reclining Twists",
-      "sanskrit": "Reclining Twists",
+      "name": "Child's Pose",
+      "sanskrit": "Child's Pose",
       "duration": 4,
-      "category": "twist",
-      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
-      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
+      "category": "forward_fold",
+      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
+      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
       "benefits": [
-        "Wrings out spine",
-        "Aids digestion",
-        "Releases lower back tension"
+        "Calms nervous system",
+        "Stretches back and shoulders",
+        "Promotes introspection"
       ],
-      "image": "assets/images/fig3-31.png",
+      "image": "assets/images/fig3-14.png",
       "order": 2,
       "startTime": 3
     },
@@ -68,18 +68,18 @@
       "startTime": 11
     },
     {
-      "name": "Child's Pose",
-      "sanskrit": "Child's Pose",
+      "name": "Reclining Twists",
+      "sanskrit": "Reclining Twists",
       "duration": 4,
-      "category": "forward_fold",
-      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
-      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
+      "category": "twist",
+      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
+      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
       "benefits": [
-        "Calms nervous system",
-        "Stretches back and shoulders",
-        "Promotes introspection"
+        "Wrings out spine",
+        "Aids digestion",
+        "Releases lower back tension"
       ],
-      "image": "assets/images/fig3-14.png",
+      "image": "assets/images/fig3-31.png",
       "order": 5,
       "startTime": 15
     },
