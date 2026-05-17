@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Reclining Twists",
-      "sanskrit": "Reclining Twists",
-      "duration": 4,
-      "category": "twist",
-      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
-      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
-      "benefits": [
-        "Wrings out spine",
-        "Aids digestion",
-        "Releases lower back tension"
-      ],
-      "image": "assets/images/fig3-31.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Caterpillar",
       "sanskrit": "Caterpillar",
       "duration": 5,
@@ -48,8 +32,8 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -64,8 +48,8 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Dangling",
@@ -80,13 +64,13 @@
         "Calms nervous system"
       ],
       "image": "assets/images/fig3-17.png",
-      "order": 5,
-      "startTime": 16
+      "order": 4,
+      "startTime": 12
     },
     {
       "name": "Sphinx and Seal",
       "sanskrit": "Sphinx and Seal",
-      "duration": 3,
+      "duration": 4,
       "category": "backbend",
       "description": "Progressive backbends working from gentle to deeper spinal extension.",
       "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
@@ -96,6 +80,22 @@
         "Opens chest"
       ],
       "image": "assets/images/fig3-37.png",
+      "order": 5,
+      "startTime": 16
+    },
+    {
+      "name": "Square",
+      "sanskrit": "Square",
+      "duration": 3,
+      "category": "hip_opener",
+      "description": "Intense hip opener working both hips simultaneously.",
+      "instructions": "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
+      "benefits": [
+        "Deep hip opening",
+        "External rotation",
+        "Prepares for lotus variations"
+      ],
+      "image": "assets/images/fig3-39.png",
       "order": 6,
       "startTime": 20
     },
