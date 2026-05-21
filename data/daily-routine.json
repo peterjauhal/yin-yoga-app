@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Sphinx and Seal",
-      "sanskrit": "Sphinx and Seal",
-      "duration": 4,
-      "category": "backbend",
-      "description": "Progressive backbends working from gentle to deeper spinal extension.",
-      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
-      "benefits": [
-        "Spinal extension",
-        "Strengthens back muscles",
-        "Opens chest"
-      ],
-      "image": "assets/images/fig3-37.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Square",
       "sanskrit": "Square",
       "duration": 5,
@@ -48,8 +32,8 @@
         "Prepares for lotus variations"
       ],
       "image": "assets/images/fig3-39.png",
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Sphinx and Seal",
@@ -64,8 +48,8 @@
         "Opens chest"
       ],
       "image": "assets/images/fig3-37.png",
-      "order": 4,
-      "startTime": 12
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Cat Pulling Its Tail",
@@ -80,13 +64,13 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 5,
-      "startTime": 16
+      "order": 4,
+      "startTime": 12
     },
     {
       "name": "Anahatasana",
       "sanskrit": "Anahatasana",
-      "duration": 3,
+      "duration": 4,
       "category": "forward_fold",
       "description": "Heart melting pose targeting middle and upper back extension.",
       "instructions": "From hands and knees, walk hands forward allowing chest to drop toward floor. Keep hips over knees.",
@@ -100,6 +84,22 @@
         "Take care with neck positioning to avoid strain",
         "Watch for tingling in hands - adjust arm position if needed"
       ],
+      "order": 5,
+      "startTime": 16
+    },
+    {
+      "name": "Sphinx and Seal",
+      "sanskrit": "Sphinx and Seal",
+      "duration": 3,
+      "category": "backbend",
+      "description": "Progressive backbends working from gentle to deeper spinal extension.",
+      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      "benefits": [
+        "Spinal extension",
+        "Strengthens back muscles",
+        "Opens chest"
+      ],
+      "image": "assets/images/fig3-37.png",
       "order": 6,
       "startTime": 20
     },
