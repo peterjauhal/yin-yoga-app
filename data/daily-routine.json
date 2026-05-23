@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-22",
+  "date": "2026-05-23",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,22 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Sphinx and Seal",
-      "sanskrit": "Sphinx and Seal",
-      "duration": 4,
-      "category": "backbend",
-      "description": "Progressive backbends working from gentle to deeper spinal extension.",
-      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
-      "benefits": [
-        "Spinal extension",
-        "Strengthens back muscles",
-        "Opens chest"
-      ],
-      "image": "assets/images/fig3-37.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Cat Pulling Its Tail",
       "sanskrit": "Cat Pulling Its Tail",
       "duration": 4,
@@ -48,8 +32,8 @@
         "Side body opening"
       ],
       "image": "assets/images/fig3-11.png",
-      "order": 3,
-      "startTime": 7
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Anahatasana",
@@ -68,8 +52,8 @@
         "Take care with neck positioning to avoid strain",
         "Watch for tingling in hands - adjust arm position if needed"
       ],
-      "order": 4,
-      "startTime": 11
+      "order": 3,
+      "startTime": 7
     },
     {
       "name": "Sphinx and Seal",
@@ -84,8 +68,8 @@
         "Opens chest"
       ],
       "image": "assets/images/fig3-37.png",
-      "order": 5,
-      "startTime": 15
+      "order": 4,
+      "startTime": 11
     },
     {
       "name": "Child's Pose",
@@ -100,6 +84,22 @@
         "Promotes introspection"
       ],
       "image": "assets/images/fig3-14.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Sphinx and Seal",
+      "sanskrit": "Sphinx and Seal",
+      "duration": 4,
+      "category": "backbend",
+      "description": "Progressive backbends working from gentle to deeper spinal extension.",
+      "instructions": "Lie prone, prop up on forearms for Sphinx, then straighten arms for Seal if comfortable.",
+      "benefits": [
+        "Spinal extension",
+        "Strengthens back muscles",
+        "Opens chest"
+      ],
+      "image": "assets/images/fig3-37.png",
       "order": 6,
       "startTime": 19
     },
