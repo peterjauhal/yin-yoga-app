@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,26 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Frog",
-      "sanskrit": "Frog",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting the inner groin and hip sockets.",
-      "instructions": "Start in Child's Pose and slide hands forward, separate knees while remaining sitting on heels.",
-      "benefits": [
-        "Opens inner groin and adductors",
-        "Increases hip flexibility",
-        "May provide spinal extension"
-      ],
-      "image": "assets/images/fig3-23.png",
-      "contraindications": [
-        "If you have back issues, compression may be too much",
-        "Use knee padding if knees complain"
-      ],
-      "order": 2,
-      "startTime": 3
-    },
-    {
       "name": "Square",
       "sanskrit": "Square",
       "duration": 5,
@@ -52,8 +32,8 @@
         "Prepares for lotus variations"
       ],
       "image": "assets/images/fig3-39.png",
-      "order": 3,
-      "startTime": 8
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Caterpillar",
@@ -68,8 +48,8 @@
         "Improves digestion"
       ],
       "image": "assets/images/fig3-12.png",
-      "order": 4,
-      "startTime": 13
+      "order": 3,
+      "startTime": 8
     },
     {
       "name": "Reclining Twists",
@@ -84,8 +64,24 @@
         "Releases lower back tension"
       ],
       "image": "assets/images/fig3-31.png",
+      "order": 4,
+      "startTime": 13
+    },
+    {
+      "name": "Child's Pose",
+      "sanskrit": "Child's Pose",
+      "duration": 4,
+      "category": "forward_fold",
+      "description": "Restorative pose providing safety and introspection while gently stretching the back.",
+      "instructions": "Kneel with big toes together, knees apart. Sit back and fold forward with arms extended.",
+      "benefits": [
+        "Calms nervous system",
+        "Stretches back and shoulders",
+        "Promotes introspection"
+      ],
+      "image": "assets/images/fig3-14.png",
       "order": 5,
-      "startTime": 18
+      "startTime": 17
     },
     {
       "name": "Savasana",
@@ -101,10 +97,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 6,
-      "startTime": 22
+      "startTime": 21
     }
   ],
   "theme": "Releasing Tension",
-  "actualDuration": 27,
+  "actualDuration": 26,
   "poseCount": 6
 }
