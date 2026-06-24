@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -36,18 +36,18 @@
       "startTime": 3
     },
     {
-      "name": "Bridge",
-      "sanskrit": "Bridge",
-      "duration": 3,
-      "category": "backbend",
-      "description": "Gentle backbend opening the chest and strengthening the back body.",
-      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
+      "name": "Reclining Twists",
+      "sanskrit": "Reclining Twists",
+      "duration": 4,
+      "category": "twist",
+      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
+      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
       "benefits": [
-        "Opens chest and heart",
-        "Strengthens glutes and back",
-        "Energizing pose"
+        "Wrings out spine",
+        "Aids digestion",
+        "Releases lower back tension"
       ],
-      "image": "assets/images/fig3-5.png",
+      "image": "assets/images/fig3-31.png",
       "order": 3,
       "startTime": 6
     },
@@ -65,23 +65,7 @@
       ],
       "image": "assets/images/fig3-31.png",
       "order": 4,
-      "startTime": 9
-    },
-    {
-      "name": "Reclining Twists",
-      "sanskrit": "Reclining Twists",
-      "duration": 4,
-      "category": "twist",
-      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
-      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
-      "benefits": [
-        "Wrings out spine",
-        "Aids digestion",
-        "Releases lower back tension"
-      ],
-      "image": "assets/images/fig3-31.png",
-      "order": 5,
-      "startTime": 13
+      "startTime": 10
     },
     {
       "name": "Square",
@@ -96,8 +80,28 @@
         "Prepares for lotus variations"
       ],
       "image": "assets/images/fig3-39.png",
+      "order": 5,
+      "startTime": 14
+    },
+    {
+      "name": "Anahatasana",
+      "sanskrit": "Anahatasana",
+      "duration": 4,
+      "category": "forward_fold",
+      "description": "Heart melting pose targeting middle and upper back extension.",
+      "instructions": "From hands and knees, walk hands forward allowing chest to drop toward floor. Keep hips over knees.",
+      "benefits": [
+        "Opens middle and upper back",
+        "Heart opening qualities",
+        "Shoulder mobility"
+      ],
+      "image": "assets/images/fig3-1.png",
+      "contraindications": [
+        "Take care with neck positioning to avoid strain",
+        "Watch for tingling in hands - adjust arm position if needed"
+      ],
       "order": 6,
-      "startTime": 17
+      "startTime": 19
     },
     {
       "name": "Savasana",
@@ -113,10 +117,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 7,
-      "startTime": 22
+      "startTime": 23
     }
   ],
-  "theme": "Grounding Practice",
-  "actualDuration": 27,
+  "theme": "Inner Strength",
+  "actualDuration": 28,
   "poseCount": 7
 }
