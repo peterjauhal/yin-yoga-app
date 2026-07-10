@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-10",
   "title": "Today's Yin Yoga Journey",
   "totalDuration": 30,
   "poses": [
@@ -20,42 +20,6 @@
       "startTime": 0
     },
     {
-      "name": "Reclining Twists",
-      "sanskrit": "Reclining Twists",
-      "duration": 4,
-      "category": "twist",
-      "description": "Gentle supine twist wringing out the spine and promoting detoxification.",
-      "instructions": "Lie on back, bring knees to chest then drop to one side. Extend arms in T-shape.",
-      "benefits": [
-        "Wrings out spine",
-        "Aids digestion",
-        "Releases lower back tension"
-      ],
-      "image": "assets/images/fig3-31.png",
-      "order": 2,
-      "startTime": 3
-    },
-    {
-      "name": "Dragon",
-      "sanskrit": "Dragon",
-      "duration": 5,
-      "category": "hip_opener",
-      "description": "Deep hip opener targeting quadriceps and hip flexors of the back leg, hip socket of the front leg.",
-      "instructions": "Begin on hands and knees or in Down Dog. Step one foot between hands. Walk front foot forward until knee is over heel. Slide back knee backward as far as comfortable.",
-      "benefits": [
-        "Stretches hip flexors and quadriceps",
-        "Opens hip sockets",
-        "Improves hip mobility"
-      ],
-      "image": "assets/images/fig3-20.png",
-      "contraindications": [
-        "Can be uncomfortable for the kneecap or ankle - use padding or support as needed",
-        "Pregnant women may wish to avoid or not go so low due to sacroiliac joint stress"
-      ],
-      "order": 3,
-      "startTime": 7
-    },
-    {
       "name": "Bridge",
       "sanskrit": "Bridge",
       "duration": 3,
@@ -68,8 +32,8 @@
         "Energizing pose"
       ],
       "image": "assets/images/fig3-5.png",
-      "order": 4,
-      "startTime": 12
+      "order": 2,
+      "startTime": 3
     },
     {
       "name": "Anahatasana",
@@ -88,13 +52,13 @@
         "Take care with neck positioning to avoid strain",
         "Watch for tingling in hands - adjust arm position if needed"
       ],
-      "order": 5,
-      "startTime": 15
+      "order": 3,
+      "startTime": 6
     },
     {
       "name": "Square",
       "sanskrit": "Square",
-      "duration": 4,
+      "duration": 5,
       "category": "hip_opener",
       "description": "Intense hip opener working both hips simultaneously.",
       "instructions": "Sit with both knees bent at 90 degrees, shins parallel. Fold forward maintaining square shape.",
@@ -104,8 +68,40 @@
         "Prepares for lotus variations"
       ],
       "image": "assets/images/fig3-39.png",
+      "order": 4,
+      "startTime": 10
+    },
+    {
+      "name": "Bridge",
+      "sanskrit": "Bridge",
+      "duration": 3,
+      "category": "backbend",
+      "description": "Gentle backbend opening the chest and strengthening the back body.",
+      "instructions": "Lie on back with knees bent, lift hips up creating arch through spine.",
+      "benefits": [
+        "Opens chest and heart",
+        "Strengthens glutes and back",
+        "Energizing pose"
+      ],
+      "image": "assets/images/fig3-5.png",
+      "order": 5,
+      "startTime": 15
+    },
+    {
+      "name": "Snail",
+      "sanskrit": "Snail",
+      "duration": 4,
+      "category": "forward_fold",
+      "description": "Inverted forward fold providing deep spinal flexion.",
+      "instructions": "Lie on back, lift legs overhead and support with hands on lower back.",
+      "benefits": [
+        "Deep spinal flexion",
+        "Neck and shoulder stretch",
+        "Introspective pose"
+      ],
+      "image": "assets/images/fig3-35.png",
       "order": 6,
-      "startTime": 19
+      "startTime": 18
     },
     {
       "name": "Savasana",
@@ -121,10 +117,10 @@
       ],
       "image": "assets/images/fig3-60.png",
       "order": 7,
-      "startTime": 23
+      "startTime": 22
     }
   ],
   "theme": "Mindful Presence",
-  "actualDuration": 28,
+  "actualDuration": 27,
   "poseCount": 7
 }
